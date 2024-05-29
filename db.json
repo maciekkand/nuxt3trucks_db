@@ -1,0 +1,7069 @@
+{
+  "brands": [
+    "Ford",
+    "Freightliner",
+    "Isuzu",
+    "Iveco",
+    "Kenworth",
+    "MAN",
+    "Mack",
+    "Nissan",
+    "Ram",
+    "Scania",
+    "Spartan",
+    "Tata",
+    "Toyota",
+    "Volvo"
+  ],
+  "statuses": [
+    "Out Of Service",
+    "Loading",
+    "To Job",
+    "At Job",
+    "Returning"
+  ],
+  "trucks": [
+    {
+      "id": 2,
+      "code": "HOM389",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Customer-focused demand-driven utilisation"
+    },
+    {
+      "id": 3,
+      "code": "RBH480",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Adaptive motivating conglomeration"
+    },
+    {
+      "id": 4,
+      "code": "HUX537",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Triple-buffered interactive complexity"
+    },
+    {
+      "id": 5,
+      "code": "KES615",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Pre-emptive scalable hierarchy"
+    },
+    {
+      "id": 6,
+      "code": "HEM029",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Sharable secondary implementation"
+    },
+    {
+      "id": 7,
+      "code": "NVN372",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Adaptive maximized circuit"
+    },
+    {
+      "id": 8,
+      "code": "VXC021",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Multi-tiered coherent Graphical User Interface"
+    },
+    {
+      "id": 9,
+      "code": "JPB557",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Sharable incremental projection"
+    },
+    {
+      "id": 10,
+      "code": "WNB122",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Integrated high-level process improvement"
+    },
+    {
+      "id": 11,
+      "code": "GWJ475",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Mandatory uniform hardware"
+    },
+    {
+      "id": 12,
+      "code": "UXK726",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Organized systematic pricing structure"
+    },
+    {
+      "id": 13,
+      "code": "LEU096",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Quality-focused fault-tolerant secured line"
+    },
+    {
+      "id": 14,
+      "code": "AJV868",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Self-enabling actuating array"
+    },
+    {
+      "id": 15,
+      "code": "JLR390",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Synergized client-driven conglomeration"
+    },
+    {
+      "id": 16,
+      "code": "CLY924",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Up-sized 3rd generation contingency"
+    },
+    {
+      "id": 17,
+      "code": "OKW375",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Enterprise-wide grid-enabled concept"
+    },
+    {
+      "id": 18,
+      "code": "PTR286",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Centralized bi-directional extranet"
+    },
+    {
+      "id": 19,
+      "code": "WVS103",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Triple-buffered impactful ability"
+    },
+    {
+      "id": 20,
+      "code": "LBN861",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "De-engineered leading edge Graphical User Interface"
+    },
+    {
+      "id": 21,
+      "code": "GNB899",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Focused disintermediate software"
+    },
+    {
+      "id": 22,
+      "code": "PTK622",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Persistent coherent website"
+    },
+    {
+      "id": 23,
+      "code": "ILG156",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Front-line analyzing help-desk"
+    },
+    {
+      "id": 24,
+      "code": "LCB427",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Networked mission-critical knowledge base"
+    },
+    {
+      "id": 25,
+      "code": "NBX069",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Networked intermediate pricing structure"
+    },
+    {
+      "id": 26,
+      "code": "EJD639",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Front-line solution-oriented process improvement"
+    },
+    {
+      "id": 27,
+      "code": "ZGL405",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Self-enabling transitional ability"
+    },
+    {
+      "id": 28,
+      "code": "WEB018",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Seamless multi-tasking knowledge user"
+    },
+    {
+      "id": 29,
+      "code": "GEE100",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Monitored 3rd generation access"
+    },
+    {
+      "id": 30,
+      "code": "HSJ253",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Expanded zero defect utilisation"
+    },
+    {
+      "id": 31,
+      "code": "FYM021",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Visionary dedicated archive"
+    },
+    {
+      "id": 32,
+      "code": "BGX000",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Open-architected tertiary moderator"
+    },
+    {
+      "id": 33,
+      "code": "PKW141",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Synchronised executive process improvement"
+    },
+    {
+      "id": 34,
+      "code": "FHP791",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Diverse reciprocal infrastructure"
+    },
+    {
+      "id": 35,
+      "code": "GAD695",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Public-key interactive infrastructure"
+    },
+    {
+      "id": 36,
+      "code": "UAV636",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Integrated client-driven secured line"
+    },
+    {
+      "id": 37,
+      "code": "JJE614",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Customizable mission-critical middleware"
+    },
+    {
+      "id": 38,
+      "code": "MVQ895",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Re-contextualized disintermediate internet solution"
+    },
+    {
+      "id": 39,
+      "code": "WUL898",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Compatible heuristic success"
+    },
+    {
+      "id": 40,
+      "code": "QGZ876",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Configurable object-oriented time-frame"
+    },
+    {
+      "id": 41,
+      "code": "LKY031",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Re-contextualized solution-oriented open architecture"
+    },
+    {
+      "id": 42,
+      "code": "EAE017",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Seamless zero tolerance flexibility"
+    },
+    {
+      "id": 43,
+      "code": "YZI698",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Secured bottom-line local area network"
+    },
+    {
+      "id": 44,
+      "code": "CWJ483",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Multi-layered 24/7 access"
+    },
+    {
+      "id": 45,
+      "code": "IRS033",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Front-line grid-enabled internet solution"
+    },
+    {
+      "id": 46,
+      "code": "XKD168",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Compatible optimizing local area network"
+    },
+    {
+      "id": 47,
+      "code": "DQE679",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Cross-platform optimal concept"
+    },
+    {
+      "id": 48,
+      "code": "BCS626",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Visionary scalable focus group"
+    },
+    {
+      "id": 49,
+      "code": "GED795",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Enterprise-wide local intranet"
+    },
+    {
+      "id": 50,
+      "code": "TPL453",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Innovative disintermediate policy"
+    },
+    {
+      "id": 51,
+      "code": "JMK314",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Synchronised fault-tolerant hierarchy"
+    },
+    {
+      "id": 52,
+      "code": "FDR696",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Sharable cohesive circuit"
+    },
+    {
+      "id": 53,
+      "code": "NNY492",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Expanded human-resource process improvement"
+    },
+    {
+      "id": 54,
+      "code": "KHG041",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Object-based zero defect neural-net"
+    },
+    {
+      "id": 55,
+      "code": "PTS085",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Public-key contextually-based knowledge user"
+    },
+    {
+      "id": 56,
+      "code": "XUR927",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Business-focused real-time encryption"
+    },
+    {
+      "id": 57,
+      "code": "HDN706",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Operative fresh-thinking structure"
+    },
+    {
+      "id": 58,
+      "code": "JSV060",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Streamlined executive open system"
+    },
+    {
+      "id": 59,
+      "code": "RFP200",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Open-architected 4th generation internet solution"
+    },
+    {
+      "id": 60,
+      "code": "GJO367",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Configurable directional pricing structure"
+    },
+    {
+      "id": 61,
+      "code": "ZBF270",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "User-friendly asynchronous adapter"
+    },
+    {
+      "id": 62,
+      "code": "KNT301",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Managed disintermediate toolset"
+    },
+    {
+      "id": 63,
+      "code": "HPC491",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Visionary exuding infrastructure"
+    },
+    {
+      "id": 64,
+      "code": "KAD201",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Networked responsive task-force"
+    },
+    {
+      "id": 65,
+      "code": "FRX129",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "De-engineered attitude-oriented framework"
+    },
+    {
+      "id": 66,
+      "code": "GSS104",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Reactive high-level neural-net"
+    },
+    {
+      "id": 67,
+      "code": "DPM169",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Automated 24/7 focus group"
+    },
+    {
+      "id": 68,
+      "code": "IGM685",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Programmable grid-enabled strategy"
+    },
+    {
+      "id": 69,
+      "code": "EDB039",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Persevering impactful superstructure"
+    },
+    {
+      "id": 70,
+      "code": "ZOE700",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Proactive context-sensitive artificial intelligence"
+    },
+    {
+      "id": 71,
+      "code": "MXI442",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Streamlined client-server alliance"
+    },
+    {
+      "id": 72,
+      "code": "XET597",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Balanced non-volatile middleware"
+    },
+    {
+      "id": 73,
+      "code": "MXW959",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Up-sized content-based groupware"
+    },
+    {
+      "id": 74,
+      "code": "CYM677",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Automated needs-based solution"
+    },
+    {
+      "id": 75,
+      "code": "NGU824",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Proactive composite extranet"
+    },
+    {
+      "id": 76,
+      "code": "MCE177",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Profound explicit adapter"
+    },
+    {
+      "id": 77,
+      "code": "VBD239",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Realigned real-time matrices"
+    },
+    {
+      "id": 78,
+      "code": "GKH210",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Configurable local process improvement"
+    },
+    {
+      "id": 79,
+      "code": "PQY688",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Programmable well-modulated help-desk"
+    },
+    {
+      "id": 80,
+      "code": "COL965",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Customizable real-time moderator"
+    },
+    {
+      "id": 81,
+      "code": "OGJ921",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Synergistic analyzing support"
+    },
+    {
+      "id": 82,
+      "code": "QXP018",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Switchable zero administration interface"
+    },
+    {
+      "id": 83,
+      "code": "RMC236",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Pre-emptive value-added portal"
+    },
+    {
+      "id": 84,
+      "code": "LPA411",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Cross-group exuding moderator"
+    },
+    {
+      "id": 85,
+      "code": "LZU080",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Open-source secondary analyzer"
+    },
+    {
+      "id": 86,
+      "code": "MIT415",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Secured intangible flexibility"
+    },
+    {
+      "id": 87,
+      "code": "IOO853",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Mandatory tertiary throughput"
+    },
+    {
+      "id": 88,
+      "code": "TWM599",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Networked context-sensitive middleware"
+    },
+    {
+      "id": 89,
+      "code": "AOH563",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Re-contextualized multimedia budgetary management"
+    },
+    {
+      "id": 90,
+      "code": "LVK271",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Mandatory context-sensitive system engine"
+    },
+    {
+      "id": 91,
+      "code": "UZZ714",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Cross-platform local leverage"
+    },
+    {
+      "id": 92,
+      "code": "XYV466",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "User-centric 24 hour core"
+    },
+    {
+      "id": 93,
+      "code": "ETA789",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Exclusive well-modulated complexity"
+    },
+    {
+      "id": 94,
+      "code": "JFN551",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Horizontal non-volatile flexibility"
+    },
+    {
+      "id": 95,
+      "code": "NQJ446",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Compatible incremental productivity"
+    },
+    {
+      "id": 96,
+      "code": "HCU621",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Multi-layered static support"
+    },
+    {
+      "id": 97,
+      "code": "RUW568",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "User-centric actuating forecast"
+    },
+    {
+      "id": 98,
+      "code": "IDP807",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Reverse-engineered attitude-oriented strategy"
+    },
+    {
+      "id": 99,
+      "code": "UAB392",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Robust bottom-line model"
+    },
+    {
+      "id": 100,
+      "code": "CHS910",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "De-engineered intermediate collaboration"
+    },
+    {
+      "id": 101,
+      "code": "AFE538",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Triple-buffered radical focus group"
+    },
+    {
+      "id": 102,
+      "code": "XKV097",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Business-focused grid-enabled moderator"
+    },
+    {
+      "id": 103,
+      "code": "TJM065",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Adaptive dynamic support"
+    },
+    {
+      "id": 104,
+      "code": "DJC811",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Public-key 5th generation function"
+    },
+    {
+      "id": 105,
+      "code": "JAK299",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Fully-configurable bottom-line algorithm"
+    },
+    {
+      "id": 106,
+      "code": "MVJ018",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "User-friendly intermediate parallelism"
+    },
+    {
+      "id": 107,
+      "code": "RNI465",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Centralized systematic policy"
+    },
+    {
+      "id": 108,
+      "code": "EOE820",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Diverse multi-tasking middleware"
+    },
+    {
+      "id": 109,
+      "code": "BKU741",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Devolved multi-state knowledge base"
+    },
+    {
+      "id": 110,
+      "code": "YYY576",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Networked zero administration parallelism"
+    },
+    {
+      "id": 111,
+      "code": "IXD657",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Customer-focused high-level time-frame"
+    },
+    {
+      "id": 112,
+      "code": "XGR825",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Balanced zero tolerance implementation"
+    },
+    {
+      "id": 113,
+      "code": "HCN619",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Configurable fault-tolerant Graphic Interface"
+    },
+    {
+      "id": 114,
+      "code": "FYH384",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Pre-emptive system-worthy productivity"
+    },
+    {
+      "id": 115,
+      "code": "XZZ216",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Switchable executive approach"
+    },
+    {
+      "id": 116,
+      "code": "NWD421",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Operative bottom-line definition"
+    },
+    {
+      "id": 117,
+      "code": "HWS008",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Horizontal coherent collaboration"
+    },
+    {
+      "id": 118,
+      "code": "LLZ952",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Horizontal bottom-line analyzer"
+    },
+    {
+      "id": 119,
+      "code": "DXZ470",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Organized real-time service-desk"
+    },
+    {
+      "id": 120,
+      "code": "YZA189",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Reactive maximized intranet"
+    },
+    {
+      "id": 121,
+      "code": "DBX528",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Balanced 24 hour artificial intelligence"
+    },
+    {
+      "id": 122,
+      "code": "ZSF106",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Cross-group needs-based focus group"
+    },
+    {
+      "id": 123,
+      "code": "TZU599",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Optimized multimedia budgetary management"
+    },
+    {
+      "id": 124,
+      "code": "ETV492",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Up-sized asymmetric software"
+    },
+    {
+      "id": 125,
+      "code": "OGX882",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Seamless actuating circuit"
+    },
+    {
+      "id": 126,
+      "code": "AGN324",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Open-architected user-facing leverage"
+    },
+    {
+      "id": 127,
+      "code": "WHR630",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Grass-roots value-added focus group"
+    },
+    {
+      "id": 128,
+      "code": "FDP754",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Enterprise-wide intermediate interface"
+    },
+    {
+      "id": 129,
+      "code": "RVF760",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Configurable bi-directional standardization"
+    },
+    {
+      "id": 130,
+      "code": "EXE230",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Extended clear-thinking definition"
+    },
+    {
+      "id": 131,
+      "code": "EXP746",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Innovative fresh-thinking encryption"
+    },
+    {
+      "id": 132,
+      "code": "NLV240",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Multi-channelled attitude-oriented capacity"
+    },
+    {
+      "id": 133,
+      "code": "BYW158",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Switchable impactful focus group"
+    },
+    {
+      "id": 134,
+      "code": "ARI289",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Grass-roots methodical ability"
+    },
+    {
+      "id": 135,
+      "code": "EJX219",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Advanced secondary product"
+    },
+    {
+      "id": 136,
+      "code": "ZOH868",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Sharable real-time installation"
+    },
+    {
+      "id": 137,
+      "code": "TPY563",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Open-source disintermediate architecture"
+    },
+    {
+      "id": 138,
+      "code": "CII861",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Future-proofed bandwidth-monitored system engine"
+    },
+    {
+      "id": 139,
+      "code": "KWO058",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Seamless asynchronous challenge"
+    },
+    {
+      "id": 140,
+      "code": "PKR884",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Networked uniform functionalities"
+    },
+    {
+      "id": 141,
+      "code": "NFD905",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "User-centric scalable info-mediaries"
+    },
+    {
+      "id": 142,
+      "code": "SNW139",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Reactive responsive complexity"
+    },
+    {
+      "id": 143,
+      "code": "DSA742",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Programmable didactic paradigm"
+    },
+    {
+      "id": 144,
+      "code": "NOT465",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Cloned static functionalities"
+    },
+    {
+      "id": 145,
+      "code": "GRP207",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Versatile bifurcated paradigm"
+    },
+    {
+      "id": 146,
+      "code": "TXC998",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Managed systematic hierarchy"
+    },
+    {
+      "id": 147,
+      "code": "JCE331",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Stand-alone logistical structure"
+    },
+    {
+      "id": 148,
+      "code": "ZUH974",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Reverse-engineered directional secured line"
+    },
+    {
+      "id": 149,
+      "code": "LDG428",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Function-based hybrid structure"
+    },
+    {
+      "id": 150,
+      "code": "CFF288",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Monitored stable flexibility"
+    },
+    {
+      "id": 151,
+      "code": "OKB938",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Persistent didactic workforce"
+    },
+    {
+      "id": 152,
+      "code": "RTY477",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Switchable national pricing structure"
+    },
+    {
+      "id": 153,
+      "code": "TEG757",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Vision-oriented analyzing workforce"
+    },
+    {
+      "id": 154,
+      "code": "XXH187",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Face to face 24/7 matrix"
+    },
+    {
+      "id": 155,
+      "code": "RQH432",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Digitized tertiary support"
+    },
+    {
+      "id": 156,
+      "code": "GOA339",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Fully-configurable bifurcated analyzer"
+    },
+    {
+      "id": 157,
+      "code": "LVI049",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "User-centric 24 hour implementation"
+    },
+    {
+      "id": 158,
+      "code": "CTZ385",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Customizable impactful Graphic Interface"
+    },
+    {
+      "id": 159,
+      "code": "OPW242",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Multi-channelled neutral firmware"
+    },
+    {
+      "id": 160,
+      "code": "JTK481",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "User-centric background functionalities"
+    },
+    {
+      "id": 161,
+      "code": "IMA767",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Multi-channelled disintermediate throughput"
+    },
+    {
+      "id": 162,
+      "code": "GDZ871",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Self-enabling encompassing portal"
+    },
+    {
+      "id": 163,
+      "code": "YCF743",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Fully-configurable multimedia extranet"
+    },
+    {
+      "id": 164,
+      "code": "XAE450",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Enterprise-wide intangible website"
+    },
+    {
+      "id": 165,
+      "code": "JGH960",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Realigned mobile leverage"
+    },
+    {
+      "id": 166,
+      "code": "IMF544",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Versatile well-modulated collaboration"
+    },
+    {
+      "id": 167,
+      "code": "XUX241",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Reduced national benchmark"
+    },
+    {
+      "id": 168,
+      "code": "EAX539",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Robust clear-thinking leverage"
+    },
+    {
+      "id": 169,
+      "code": "QHW853",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Re-contextualized neutral encoding"
+    },
+    {
+      "id": 170,
+      "code": "MCK474",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Implemented web-enabled migration"
+    },
+    {
+      "id": 171,
+      "code": "ZMZ453",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Up-sized high-level access"
+    },
+    {
+      "id": 172,
+      "code": "KZX321",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Assimilated secondary encoding"
+    },
+    {
+      "id": 173,
+      "code": "ARN891",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Proactive user-facing structure"
+    },
+    {
+      "id": 174,
+      "code": "QTI208",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Compatible user-facing process improvement"
+    },
+    {
+      "id": 175,
+      "code": "HRM372",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Robust discrete initiative"
+    },
+    {
+      "id": 176,
+      "code": "PTY253",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Decentralized transitional intranet"
+    },
+    {
+      "id": 177,
+      "code": "LFS570",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "User-friendly client-driven analyzer"
+    },
+    {
+      "id": 178,
+      "code": "IDR870",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Multi-lateral client-server groupware"
+    },
+    {
+      "id": 179,
+      "code": "KPO698",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Sharable bi-directional migration"
+    },
+    {
+      "id": 180,
+      "code": "DFM178",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Re-contextualized 5th generation Graphical User Interface"
+    },
+    {
+      "id": 181,
+      "code": "UQO188",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Open-architected asymmetric core"
+    },
+    {
+      "id": 182,
+      "code": "DGU933",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Vision-oriented actuating toolset"
+    },
+    {
+      "id": 183,
+      "code": "XRV108",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Fundamental homogeneous process improvement"
+    },
+    {
+      "id": 184,
+      "code": "WJH710",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Secured user-facing system engine"
+    },
+    {
+      "id": 185,
+      "code": "HLT723",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Automated tertiary portal"
+    },
+    {
+      "id": 186,
+      "code": "QJS372",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Exclusive human-resource collaboration"
+    },
+    {
+      "id": 187,
+      "code": "HLW409",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Business-focused dynamic projection"
+    },
+    {
+      "id": 188,
+      "code": "OFD857",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Multi-lateral fault-tolerant orchestration"
+    },
+    {
+      "id": 189,
+      "code": "CZD613",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Optional multimedia hub"
+    },
+    {
+      "id": 190,
+      "code": "GPJ245",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Fundamental dedicated initiative"
+    },
+    {
+      "id": 191,
+      "code": "OQP100",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Distributed attitude-oriented analyzer"
+    },
+    {
+      "id": 192,
+      "code": "QLN430",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Public-key clear-thinking focus group"
+    },
+    {
+      "id": 193,
+      "code": "CNU032",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Realigned homogeneous forecast"
+    },
+    {
+      "id": 194,
+      "code": "XDN754",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Re-contextualized explicit utilisation"
+    },
+    {
+      "id": 195,
+      "code": "TOJ798",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Streamlined next generation encoding"
+    },
+    {
+      "id": 196,
+      "code": "IIZ687",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Synergistic upward-trending website"
+    },
+    {
+      "id": 197,
+      "code": "PTG218",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Horizontal context-sensitive process improvement"
+    },
+    {
+      "id": 198,
+      "code": "BOS371",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Configurable cohesive portal"
+    },
+    {
+      "id": 199,
+      "code": "WDU429",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Cross-group national project"
+    },
+    {
+      "id": 200,
+      "code": "NIT586",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Centralized high-level architecture"
+    },
+    {
+      "id": 201,
+      "code": "ENN201",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Right-sized intermediate solution"
+    },
+    {
+      "id": 202,
+      "code": "VBL813",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Synergized bi-directional database"
+    },
+    {
+      "id": 203,
+      "code": "LGX866",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Configurable scalable installation"
+    },
+    {
+      "id": 204,
+      "code": "PEO231",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Switchable contextually-based data-warehouse"
+    },
+    {
+      "id": 205,
+      "code": "VBZ587",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Reactive composite migration"
+    },
+    {
+      "id": 206,
+      "code": "NCQ760",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Open-source user-facing architecture"
+    },
+    {
+      "id": 207,
+      "code": "RMY282",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Re-engineered even-keeled strategy"
+    },
+    {
+      "id": 208,
+      "code": "GQR140",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Inverse 4th generation core"
+    },
+    {
+      "id": 209,
+      "code": "XYV286",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Enterprise-wide contextually-based interface"
+    },
+    {
+      "id": 210,
+      "code": "LXC141",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Virtual fault-tolerant access"
+    },
+    {
+      "id": 211,
+      "code": "QPT100",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Re-engineered tertiary attitude"
+    },
+    {
+      "id": 212,
+      "code": "NRZ444",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Customizable optimizing utilisation"
+    },
+    {
+      "id": 213,
+      "code": "LYA525",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Proactive empowering middleware"
+    },
+    {
+      "id": 214,
+      "code": "JFZ392",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Vision-oriented secondary success"
+    },
+    {
+      "id": 215,
+      "code": "MSX323",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Cross-group 3rd generation methodology"
+    },
+    {
+      "id": 216,
+      "code": "ADZ706",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Customer-focused eco-centric capacity"
+    },
+    {
+      "id": 217,
+      "code": "SHU663",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Managed intermediate task-force"
+    },
+    {
+      "id": 218,
+      "code": "EOA498",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Proactive analyzing pricing structure"
+    },
+    {
+      "id": 219,
+      "code": "QJX288",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Up-sized empowering intranet"
+    },
+    {
+      "id": 220,
+      "code": "RUX325",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Decentralized methodical migration"
+    },
+    {
+      "id": 221,
+      "code": "IZF531",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Pre-emptive next generation utilisation"
+    },
+    {
+      "id": 222,
+      "code": "BBZ377",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Customer-focused impactful conglomeration"
+    },
+    {
+      "id": 223,
+      "code": "QPL654",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Digitized dedicated conglomeration"
+    },
+    {
+      "id": 224,
+      "code": "WPC531",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Re-contextualized uniform projection"
+    },
+    {
+      "id": 225,
+      "code": "BXW146",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Optional stable standardization"
+    },
+    {
+      "id": 226,
+      "code": "AWM480",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Open-architected homogeneous budgetary management"
+    },
+    {
+      "id": 227,
+      "code": "GSX152",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Secured client-driven data-warehouse"
+    },
+    {
+      "id": 228,
+      "code": "DJX130",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Managed client-server attitude"
+    },
+    {
+      "id": 229,
+      "code": "FXC932",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Face to face 3rd generation extranet"
+    },
+    {
+      "id": 230,
+      "code": "YUU772",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Down-sized neutral archive"
+    },
+    {
+      "id": 231,
+      "code": "DQZ994",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Persistent 24/7 service-desk"
+    },
+    {
+      "id": 232,
+      "code": "CPF049",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Total tangible artificial intelligence"
+    },
+    {
+      "id": 233,
+      "code": "RPB070",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Monitored 24/7 array"
+    },
+    {
+      "id": 234,
+      "code": "MXG184",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Reduced needs-based emulation"
+    },
+    {
+      "id": 235,
+      "code": "YQZ881",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Assimilated local strategy"
+    },
+    {
+      "id": 236,
+      "code": "MZP185",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Multi-tiered national encryption"
+    },
+    {
+      "id": 237,
+      "code": "DRX452",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Vision-oriented bandwidth-monitored ability"
+    },
+    {
+      "id": 238,
+      "code": "SLF541",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Cloned hybrid implementation"
+    },
+    {
+      "id": 239,
+      "code": "VDU610",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Team-oriented solution-oriented circuit"
+    },
+    {
+      "id": 240,
+      "code": "LQM239",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Networked foreground knowledge base"
+    },
+    {
+      "id": 241,
+      "code": "YNN758",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Distributed scalable interface"
+    },
+    {
+      "id": 242,
+      "code": "XBW662",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Re-contextualized incremental challenge"
+    },
+    {
+      "id": 243,
+      "code": "VXI222",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Automated high-level help-desk"
+    },
+    {
+      "id": 244,
+      "code": "VEG090",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Fully-configurable mission-critical leverage"
+    },
+    {
+      "id": 245,
+      "code": "HFX439",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Automated static productivity"
+    },
+    {
+      "id": 246,
+      "code": "CMQ572",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Up-sized maximized analyzer"
+    },
+    {
+      "id": 247,
+      "code": "GAQ321",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Polarised zero defect definition"
+    },
+    {
+      "id": 248,
+      "code": "MNN336",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Robust bottom-line info-mediaries"
+    },
+    {
+      "id": 249,
+      "code": "LKP834",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Universal client-driven project"
+    },
+    {
+      "id": 250,
+      "code": "JTH227",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Streamlined background application"
+    },
+    {
+      "id": 251,
+      "code": "EVI599",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Ergonomic scalable migration"
+    },
+    {
+      "id": 252,
+      "code": "PSB553",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Programmable radical methodology"
+    },
+    {
+      "id": 253,
+      "code": "OAS016",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Compatible zero administration artificial intelligence"
+    },
+    {
+      "id": 254,
+      "code": "KSL446",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Profound full-range utilisation"
+    },
+    {
+      "id": 255,
+      "code": "CQO529",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Customer-focused uniform project"
+    },
+    {
+      "id": 256,
+      "code": "AUE518",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Right-sized clear-thinking concept"
+    },
+    {
+      "id": 257,
+      "code": "EQT373",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Organized bifurcated product"
+    },
+    {
+      "id": 258,
+      "code": "NUZ149",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Synergistic explicit data-warehouse"
+    },
+    {
+      "id": 259,
+      "code": "BZR927",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Compatible empowering system engine"
+    },
+    {
+      "id": 260,
+      "code": "KGV566",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Reverse-engineered dedicated solution"
+    },
+    {
+      "id": 261,
+      "code": "SSO275",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Open-source disintermediate strategy"
+    },
+    {
+      "id": 262,
+      "code": "NYG945",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Customer-focused actuating paradigm"
+    },
+    {
+      "id": 263,
+      "code": "KFV905",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Focused grid-enabled conglomeration"
+    },
+    {
+      "id": 264,
+      "code": "OCE429",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Integrated analyzing workforce"
+    },
+    {
+      "id": 265,
+      "code": "DXI789",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Reduced full-range open architecture"
+    },
+    {
+      "id": 266,
+      "code": "TMH434",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Public-key contextually-based knowledge user"
+    },
+    {
+      "id": 267,
+      "code": "WOZ817",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Business-focused even-keeled throughput"
+    },
+    {
+      "id": 268,
+      "code": "GVD251",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Multi-tiered object-oriented toolset"
+    },
+    {
+      "id": 269,
+      "code": "CKK023",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Multi-channelled zero tolerance success"
+    },
+    {
+      "id": 270,
+      "code": "VMK798",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Ameliorated systematic middleware"
+    },
+    {
+      "id": 271,
+      "code": "LDH085",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Reduced client-server projection"
+    },
+    {
+      "id": 272,
+      "code": "GMZ559",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Open-architected content-based support"
+    },
+    {
+      "id": 273,
+      "code": "YTH739",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Intuitive next generation open architecture"
+    },
+    {
+      "id": 274,
+      "code": "LKR835",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Upgradable eco-centric concept"
+    },
+    {
+      "id": 275,
+      "code": "WQN323",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Self-enabling content-based hub"
+    },
+    {
+      "id": 276,
+      "code": "TRM146",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Total encompassing core"
+    },
+    {
+      "id": 277,
+      "code": "YMR854",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Progressive 5th generation definition"
+    },
+    {
+      "id": 278,
+      "code": "VZU213",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Future-proofed mobile instruction set"
+    },
+    {
+      "id": 279,
+      "code": "UGO858",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Intuitive multimedia artificial intelligence"
+    },
+    {
+      "id": 280,
+      "code": "GIR177",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Optimized needs-based conglomeration"
+    },
+    {
+      "id": 281,
+      "code": "LLY472",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Multi-channelled background budgetary management"
+    },
+    {
+      "id": 282,
+      "code": "XZW984",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Quality-focused full-range knowledge user"
+    },
+    {
+      "id": 283,
+      "code": "BUC871",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Enterprise-wide web-enabled software"
+    },
+    {
+      "id": 284,
+      "code": "DBD156",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Pre-emptive reciprocal orchestration"
+    },
+    {
+      "id": 285,
+      "code": "ROW242",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Open-source needs-based neural-net"
+    },
+    {
+      "id": 286,
+      "code": "MKP435",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Balanced optimizing paradigm"
+    },
+    {
+      "id": 287,
+      "code": "JFZ550",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Synergized dynamic productivity"
+    },
+    {
+      "id": 288,
+      "code": "XAZ385",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Automated 24/7 system engine"
+    },
+    {
+      "id": 289,
+      "code": "BJQ941",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Mandatory content-based algorithm"
+    },
+    {
+      "id": 290,
+      "code": "YXO035",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Mandatory logistical encryption"
+    },
+    {
+      "id": 291,
+      "code": "XZC781",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Horizontal bandwidth-monitored capacity"
+    },
+    {
+      "id": 292,
+      "code": "OSD569",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Customer-focused client-driven project"
+    },
+    {
+      "id": 293,
+      "code": "GBD628",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Enhanced empowering benchmark"
+    },
+    {
+      "id": 294,
+      "code": "EYF723",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Team-oriented systemic data-warehouse"
+    },
+    {
+      "id": 295,
+      "code": "AQU801",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "User-centric high-level capability"
+    },
+    {
+      "id": 296,
+      "code": "XHC583",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Open-architected 24 hour matrix"
+    },
+    {
+      "id": 297,
+      "code": "EAP491",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Innovative analyzing focus group"
+    },
+    {
+      "id": 298,
+      "code": "NKB963",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Exclusive optimal help-desk"
+    },
+    {
+      "id": 299,
+      "code": "JGR901",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Multi-channelled web-enabled groupware"
+    },
+    {
+      "id": 300,
+      "code": "ESA919",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Fundamental reciprocal benchmark"
+    },
+    {
+      "id": 301,
+      "code": "MDA676",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Organized optimal monitoring"
+    },
+    {
+      "id": 302,
+      "code": "FUK980",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Multi-tiered foreground internet solution"
+    },
+    {
+      "id": 303,
+      "code": "MPK322",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Realigned explicit project"
+    },
+    {
+      "id": 304,
+      "code": "XNA057",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Persevering zero defect installation"
+    },
+    {
+      "id": 305,
+      "code": "YLH444",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Enterprise-wide tertiary process improvement"
+    },
+    {
+      "id": 306,
+      "code": "NUR730",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Realigned incremental product"
+    },
+    {
+      "id": 307,
+      "code": "NLE107",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Enterprise-wide exuding firmware"
+    },
+    {
+      "id": 308,
+      "code": "YMB428",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Multi-lateral actuating emulation"
+    },
+    {
+      "id": 309,
+      "code": "EIS578",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Multi-lateral heuristic moratorium"
+    },
+    {
+      "id": 310,
+      "code": "SVH955",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Cloned disintermediate forecast"
+    },
+    {
+      "id": 311,
+      "code": "OOH455",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Decentralized background moratorium"
+    },
+    {
+      "id": 312,
+      "code": "RFZ938",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Managed analyzing benchmark"
+    },
+    {
+      "id": 313,
+      "code": "RFL377",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Compatible foreground internet solution"
+    },
+    {
+      "id": 314,
+      "code": "AFZ841",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Devolved dedicated forecast"
+    },
+    {
+      "id": 315,
+      "code": "NMZ359",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Multi-channelled bottom-line parallelism"
+    },
+    {
+      "id": 316,
+      "code": "MPL017",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Synergistic demand-driven encoding"
+    },
+    {
+      "id": 317,
+      "code": "DGJ506",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Down-sized secondary Graphic Interface"
+    },
+    {
+      "id": 318,
+      "code": "TGI372",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Virtual optimizing frame"
+    },
+    {
+      "id": 319,
+      "code": "UFD969",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Centralized hybrid complexity"
+    },
+    {
+      "id": 320,
+      "code": "WVY680",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Automated mobile system engine"
+    },
+    {
+      "id": 321,
+      "code": "RYW462",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Realigned methodical leverage"
+    },
+    {
+      "id": 322,
+      "code": "DCC776",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Expanded uniform internet solution"
+    },
+    {
+      "id": 323,
+      "code": "WJW253",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Cross-platform non-volatile monitoring"
+    },
+    {
+      "id": 324,
+      "code": "UPU602",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Implemented bottom-line hierarchy"
+    },
+    {
+      "id": 325,
+      "code": "GYW833",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Extended full-range customer loyalty"
+    },
+    {
+      "id": 326,
+      "code": "LRX229",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Horizontal exuding flexibility"
+    },
+    {
+      "id": 327,
+      "code": "YDG021",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Streamlined reciprocal complexity"
+    },
+    {
+      "id": 328,
+      "code": "YHQ326",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Visionary 24 hour approach"
+    },
+    {
+      "id": 329,
+      "code": "DDG731",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Diverse modular pricing structure"
+    },
+    {
+      "id": 330,
+      "code": "ZNG382",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Profit-focused object-oriented hierarchy"
+    },
+    {
+      "id": 331,
+      "code": "DCL134",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Future-proofed demand-driven Graphic Interface"
+    },
+    {
+      "id": 332,
+      "code": "VCZ619",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Horizontal bottom-line paradigm"
+    },
+    {
+      "id": 333,
+      "code": "LCE913",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Ameliorated responsive extranet"
+    },
+    {
+      "id": 334,
+      "code": "EYJ316",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Programmable optimal secured line"
+    },
+    {
+      "id": 335,
+      "code": "EMC797",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Sharable systemic strategy"
+    },
+    {
+      "id": 336,
+      "code": "WZG198",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Persistent directional budgetary management"
+    },
+    {
+      "id": 337,
+      "code": "DZO323",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Organized real-time info-mediaries"
+    },
+    {
+      "id": 338,
+      "code": "JWU338",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Operative responsive software"
+    },
+    {
+      "id": 339,
+      "code": "SBT036",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Distributed multimedia strategy"
+    },
+    {
+      "id": 340,
+      "code": "YOV475",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Decentralized full-range knowledge user"
+    },
+    {
+      "id": 341,
+      "code": "MCF637",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Quality-focused mobile definition"
+    },
+    {
+      "id": 342,
+      "code": "UKA101",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Multi-lateral client-driven migration"
+    },
+    {
+      "id": 343,
+      "code": "VPF822",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Virtual fault-tolerant system engine"
+    },
+    {
+      "id": 344,
+      "code": "AXY560",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Intuitive human-resource utilisation"
+    },
+    {
+      "id": 345,
+      "code": "NGL969",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Fundamental grid-enabled project"
+    },
+    {
+      "id": 346,
+      "code": "IBE881",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Upgradable real-time encoding"
+    },
+    {
+      "id": 347,
+      "code": "CNQ185",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Diverse even-keeled open architecture"
+    },
+    {
+      "id": 348,
+      "code": "EKA742",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Triple-buffered mission-critical website"
+    },
+    {
+      "id": 349,
+      "code": "PFU218",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Fully-configurable multi-tasking strategy"
+    },
+    {
+      "id": 350,
+      "code": "NKX314",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Horizontal 6th generation framework"
+    },
+    {
+      "id": 351,
+      "code": "IMX663",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Optimized dedicated hierarchy"
+    },
+    {
+      "id": 352,
+      "code": "NSY907",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Secured reciprocal matrices"
+    },
+    {
+      "id": 353,
+      "code": "YDL305",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Implemented empowering paradigm"
+    },
+    {
+      "id": 354,
+      "code": "PAN184",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Visionary national standardization"
+    },
+    {
+      "id": 355,
+      "code": "LZQ522",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Public-key zero defect neural-net"
+    },
+    {
+      "id": 356,
+      "code": "CIC544",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Centralized logistical forecast"
+    },
+    {
+      "id": 357,
+      "code": "HLU567",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Total real-time task-force"
+    },
+    {
+      "id": 358,
+      "code": "UGG693",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Function-based zero tolerance software"
+    },
+    {
+      "id": 359,
+      "code": "YPG765",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Ameliorated zero administration approach"
+    },
+    {
+      "id": 360,
+      "code": "VLV692",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Digitized content-based ability"
+    },
+    {
+      "id": 361,
+      "code": "CKT431",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Upgradable value-added database"
+    },
+    {
+      "id": 362,
+      "code": "YEF724",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "De-engineered non-volatile capacity"
+    },
+    {
+      "id": 363,
+      "code": "PKD447",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Open-architected bi-directional utilisation"
+    },
+    {
+      "id": 364,
+      "code": "UGZ952",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Enhanced optimal challenge"
+    },
+    {
+      "id": 365,
+      "code": "QKM122",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Automated directional groupware"
+    },
+    {
+      "id": 366,
+      "code": "NYR525",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Inverse web-enabled software"
+    },
+    {
+      "id": 367,
+      "code": "KDN292",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Universal systematic frame"
+    },
+    {
+      "id": 368,
+      "code": "JBI011",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Compatible modular installation"
+    },
+    {
+      "id": 369,
+      "code": "FSA660",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Open-source stable firmware"
+    },
+    {
+      "id": 370,
+      "code": "VDI947",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Exclusive holistic approach"
+    },
+    {
+      "id": 371,
+      "code": "XUA592",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Optimized asynchronous knowledge base"
+    },
+    {
+      "id": 372,
+      "code": "CTD763",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Mandatory well-modulated artificial intelligence"
+    },
+    {
+      "id": 373,
+      "code": "QGQ373",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Open-source 4th generation core"
+    },
+    {
+      "id": 374,
+      "code": "HGU650",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Phased optimal matrix"
+    },
+    {
+      "id": 375,
+      "code": "LZX358",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Self-enabling contextually-based info-mediaries"
+    },
+    {
+      "id": 376,
+      "code": "SFU212",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Multi-layered modular circuit"
+    },
+    {
+      "id": 377,
+      "code": "HFX999",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Upgradable incremental customer loyalty"
+    },
+    {
+      "id": 378,
+      "code": "QKB492",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Business-focused national Graphical User Interface"
+    },
+    {
+      "id": 379,
+      "code": "QAJ330",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Phased directional complexity"
+    },
+    {
+      "id": 380,
+      "code": "MXY048",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Diverse even-keeled monitoring"
+    },
+    {
+      "id": 381,
+      "code": "VIX126",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Stand-alone mission-critical extranet"
+    },
+    {
+      "id": 382,
+      "code": "WCJ579",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "User-centric methodical contingency"
+    },
+    {
+      "id": 383,
+      "code": "HDE641",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Implemented real-time model"
+    },
+    {
+      "id": 384,
+      "code": "MTJ569",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Ergonomic contextually-based extranet"
+    },
+    {
+      "id": 385,
+      "code": "PVJ953",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Expanded bottom-line parallelism"
+    },
+    {
+      "id": 386,
+      "code": "LEM919",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Multi-layered attitude-oriented initiative"
+    },
+    {
+      "id": 387,
+      "code": "GIY007",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Digitized asymmetric matrix"
+    },
+    {
+      "id": 388,
+      "code": "KTG775",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Grass-roots attitude-oriented hub"
+    },
+    {
+      "id": 389,
+      "code": "VMC119",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "User-centric bottom-line leverage"
+    },
+    {
+      "id": 390,
+      "code": "UAY999",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Grass-roots empowering approach"
+    },
+    {
+      "id": 391,
+      "code": "FNB870",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Exclusive mobile interface"
+    },
+    {
+      "id": 392,
+      "code": "JDI901",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Networked tertiary orchestration"
+    },
+    {
+      "id": 393,
+      "code": "LXP082",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Progressive mission-critical algorithm"
+    },
+    {
+      "id": 394,
+      "code": "DQC722",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Grass-roots optimizing neural-net"
+    },
+    {
+      "id": 395,
+      "code": "OXC905",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Assimilated 24/7 initiative"
+    },
+    {
+      "id": 396,
+      "code": "DGQ445",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Secured national parallelism"
+    },
+    {
+      "id": 397,
+      "code": "SIO901",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Multi-channelled asymmetric focus group"
+    },
+    {
+      "id": 398,
+      "code": "GVB185",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Devolved stable circuit"
+    },
+    {
+      "id": 399,
+      "code": "NTM055",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Right-sized system-worthy portal"
+    },
+    {
+      "id": 400,
+      "code": "UYI766",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Front-line regional circuit"
+    },
+    {
+      "id": 401,
+      "code": "QZR160",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Centralized non-volatile architecture"
+    },
+    {
+      "id": 402,
+      "code": "ETW226",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Face to face needs-based time-frame"
+    },
+    {
+      "id": 403,
+      "code": "PQD067",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Public-key actuating support"
+    },
+    {
+      "id": 404,
+      "code": "UZQ442",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Optimized scalable concept"
+    },
+    {
+      "id": 405,
+      "code": "CJG939",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Operative radical projection"
+    },
+    {
+      "id": 406,
+      "code": "FQC333",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Object-based 5th generation focus group"
+    },
+    {
+      "id": 407,
+      "code": "VZU695",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Re-engineered asynchronous info-mediaries"
+    },
+    {
+      "id": 408,
+      "code": "WNM698",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "User-friendly discrete knowledge base"
+    },
+    {
+      "id": 409,
+      "code": "YSK296",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Balanced homogeneous matrix"
+    },
+    {
+      "id": 410,
+      "code": "DJL446",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Operative global utilisation"
+    },
+    {
+      "id": 411,
+      "code": "LYP648",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Upgradable contextually-based superstructure"
+    },
+    {
+      "id": 412,
+      "code": "DQT405",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Virtual multi-tasking instruction set"
+    },
+    {
+      "id": 413,
+      "code": "VEG413",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Quality-focused explicit architecture"
+    },
+    {
+      "id": 414,
+      "code": "FFY955",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Self-enabling 6th generation circuit"
+    },
+    {
+      "id": 415,
+      "code": "VMP027",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Triple-buffered bi-directional synergy"
+    },
+    {
+      "id": 416,
+      "code": "PBQ946",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Upgradable neutral complexity"
+    },
+    {
+      "id": 417,
+      "code": "HWV776",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Multi-tiered logistical analyzer"
+    },
+    {
+      "id": 418,
+      "code": "IBB250",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Multi-channelled actuating extranet"
+    },
+    {
+      "id": 419,
+      "code": "NMG638",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Focused bottom-line time-frame"
+    },
+    {
+      "id": 420,
+      "code": "WXA163",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Exclusive regional project"
+    },
+    {
+      "id": 421,
+      "code": "EVM649",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Re-engineered neutral orchestration"
+    },
+    {
+      "id": 422,
+      "code": "WRN833",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Multi-lateral empowering adapter"
+    },
+    {
+      "id": 423,
+      "code": "QJM974",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Balanced actuating archive"
+    },
+    {
+      "id": 424,
+      "code": "KGE027",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Upgradable 6th generation archive"
+    },
+    {
+      "id": 425,
+      "code": "TNF218",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Persevering analyzing access"
+    },
+    {
+      "id": 426,
+      "code": "NVD853",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Multi-tiered high-level hub"
+    },
+    {
+      "id": 427,
+      "code": "PZM348",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Fundamental tangible process improvement"
+    },
+    {
+      "id": 428,
+      "code": "VFM753",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Front-line disintermediate definition"
+    },
+    {
+      "id": 429,
+      "code": "NVW422",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Monitored multi-tasking solution"
+    },
+    {
+      "id": 430,
+      "code": "WXP738",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Monitored multi-tasking challenge"
+    },
+    {
+      "id": 431,
+      "code": "AFE085",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "De-engineered dynamic focus group"
+    },
+    {
+      "id": 432,
+      "code": "ZTW039",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Profit-focused encompassing paradigm"
+    },
+    {
+      "id": 433,
+      "code": "DMJ501",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Cross-group heuristic internet solution"
+    },
+    {
+      "id": 434,
+      "code": "CYW912",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Face to face client-server knowledge user"
+    },
+    {
+      "id": 435,
+      "code": "NAZ709",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Profound next generation standardization"
+    },
+    {
+      "id": 436,
+      "code": "JTS672",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Business-focused dedicated collaboration"
+    },
+    {
+      "id": 437,
+      "code": "MTM489",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Managed 3rd generation service-desk"
+    },
+    {
+      "id": 438,
+      "code": "JBQ365",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Total empowering neural-net"
+    },
+    {
+      "id": 439,
+      "code": "ILO182",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Advanced grid-enabled infrastructure"
+    },
+    {
+      "id": 440,
+      "code": "RKQ555",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Horizontal empowering info-mediaries"
+    },
+    {
+      "id": 441,
+      "code": "BMK754",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Synchronised asynchronous extranet"
+    },
+    {
+      "id": 442,
+      "code": "AUJ324",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Up-sized zero tolerance contingency"
+    },
+    {
+      "id": 443,
+      "code": "UKL460",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Programmable explicit software"
+    },
+    {
+      "id": 444,
+      "code": "KRH943",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Organic modular concept"
+    },
+    {
+      "id": 445,
+      "code": "PQS977",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Diverse global array"
+    },
+    {
+      "id": 446,
+      "code": "CYF445",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Reactive bandwidth-monitored productivity"
+    },
+    {
+      "id": 447,
+      "code": "CSN730",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Balanced context-sensitive task-force"
+    },
+    {
+      "id": 448,
+      "code": "KGG277",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Re-engineered homogeneous open system"
+    },
+    {
+      "id": 449,
+      "code": "KSJ824",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Seamless systematic firmware"
+    },
+    {
+      "id": 450,
+      "code": "UTQ796",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Virtual content-based forecast"
+    },
+    {
+      "id": 451,
+      "code": "MGU672",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Right-sized needs-based extranet"
+    },
+    {
+      "id": 452,
+      "code": "TVN820",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Decentralized exuding local area network"
+    },
+    {
+      "id": 453,
+      "code": "XWY980",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Networked contextually-based open architecture"
+    },
+    {
+      "id": 454,
+      "code": "FVI170",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Horizontal multimedia open system"
+    },
+    {
+      "id": 455,
+      "code": "MGU536",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Multi-tiered composite secured line"
+    },
+    {
+      "id": 456,
+      "code": "BVO877",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Up-sized value-added middleware"
+    },
+    {
+      "id": 457,
+      "code": "DIW655",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Persevering motivating moratorium"
+    },
+    {
+      "id": 458,
+      "code": "QUI295",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Digitized encompassing toolset"
+    },
+    {
+      "id": 459,
+      "code": "PUV434",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Right-sized radical leverage"
+    },
+    {
+      "id": 460,
+      "code": "AVF422",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Customer-focused bifurcated encoding"
+    },
+    {
+      "id": 461,
+      "code": "QNJ455",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Advanced static open system"
+    },
+    {
+      "id": 462,
+      "code": "XYU972",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Proactive logistical hardware"
+    },
+    {
+      "id": 463,
+      "code": "HVK202",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Diverse client-server policy"
+    },
+    {
+      "id": 464,
+      "code": "GAF456",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Self-enabling interactive website"
+    },
+    {
+      "id": 465,
+      "code": "TKQ263",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Triple-buffered discrete infrastructure"
+    },
+    {
+      "id": 466,
+      "code": "DSQ881",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Adaptive composite algorithm"
+    },
+    {
+      "id": 467,
+      "code": "OFT237",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Profound next generation internet solution"
+    },
+    {
+      "id": 468,
+      "code": "GIW540",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Streamlined regional structure"
+    },
+    {
+      "id": 469,
+      "code": "NZO572",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Open-architected fault-tolerant moderator"
+    },
+    {
+      "id": 470,
+      "code": "AYD721",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Automated 6th generation alliance"
+    },
+    {
+      "id": 471,
+      "code": "MYQ979",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Centralized actuating installation"
+    },
+    {
+      "id": 472,
+      "code": "JJM879",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Managed impactful ability"
+    },
+    {
+      "id": 473,
+      "code": "TBV745",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Polarised static matrices"
+    },
+    {
+      "id": 474,
+      "code": "IYC072",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Public-key neutral analyzer"
+    },
+    {
+      "id": 475,
+      "code": "ZCB482",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Synergized 4th generation synergy"
+    },
+    {
+      "id": 476,
+      "code": "NIC349",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Face to face upward-trending knowledge base"
+    },
+    {
+      "id": 477,
+      "code": "SRI196",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Synergistic regional support"
+    },
+    {
+      "id": 478,
+      "code": "ZHA173",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Distributed next generation application"
+    },
+    {
+      "id": 479,
+      "code": "EJL256",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Multi-channelled coherent model"
+    },
+    {
+      "id": 480,
+      "code": "KZG473",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Realigned web-enabled pricing structure"
+    },
+    {
+      "id": 481,
+      "code": "KMJ006",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Fundamental exuding focus group"
+    },
+    {
+      "id": 482,
+      "code": "XYD006",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Universal reciprocal service-desk"
+    },
+    {
+      "id": 483,
+      "code": "VXK656",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Re-engineered executive emulation"
+    },
+    {
+      "id": 484,
+      "code": "NAZ909",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Balanced impactful algorithm"
+    },
+    {
+      "id": 485,
+      "code": "QRB018",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Phased regional software"
+    },
+    {
+      "id": 486,
+      "code": "ZYP670",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Phased global software"
+    },
+    {
+      "id": 487,
+      "code": "RZC944",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Adaptive neutral middleware"
+    },
+    {
+      "id": 488,
+      "code": "HBJ809",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Devolved clear-thinking frame"
+    },
+    {
+      "id": 489,
+      "code": "PFV249",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Adaptive mission-critical artificial intelligence"
+    },
+    {
+      "id": 490,
+      "code": "WZD352",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Robust background help-desk"
+    },
+    {
+      "id": 491,
+      "code": "UQJ332",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Reverse-engineered coherent superstructure"
+    },
+    {
+      "id": 492,
+      "code": "FXA053",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "De-engineered systemic open architecture"
+    },
+    {
+      "id": 493,
+      "code": "CUL943",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Focused explicit focus group"
+    },
+    {
+      "id": 494,
+      "code": "CMF272",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Front-line human-resource budgetary management"
+    },
+    {
+      "id": 495,
+      "code": "YFO486",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Persevering empowering throughput"
+    },
+    {
+      "id": 496,
+      "code": "BRR485",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Assimilated scalable extranet"
+    },
+    {
+      "id": 497,
+      "code": "YBB394",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Grass-roots modular analyzer"
+    },
+    {
+      "id": 498,
+      "code": "SHN918",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Programmable reciprocal definition"
+    },
+    {
+      "id": 499,
+      "code": "WVO046",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Adaptive multi-tasking capacity"
+    },
+    {
+      "id": 500,
+      "code": "KZJ687",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Synergized optimizing benchmark"
+    },
+    {
+      "id": 501,
+      "code": "VDF552",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Total client-server framework"
+    },
+    {
+      "id": 502,
+      "code": "DNS956",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Distributed client-driven open architecture"
+    },
+    {
+      "id": 503,
+      "code": "ASW827",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Assimilated multimedia software"
+    },
+    {
+      "id": 504,
+      "code": "QAU562",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Mandatory 5th generation internet solution"
+    },
+    {
+      "id": 505,
+      "code": "KGT228",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Mandatory multi-state extranet"
+    },
+    {
+      "id": 506,
+      "code": "GHW499",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Enterprise-wide local protocol"
+    },
+    {
+      "id": 507,
+      "code": "LZM727",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Operative neutral approach"
+    },
+    {
+      "id": 508,
+      "code": "QOT818",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Centralized coherent functionalities"
+    },
+    {
+      "id": 509,
+      "code": "OLP140",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Front-line 4th generation open system"
+    },
+    {
+      "id": 510,
+      "code": "HAG902",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Switchable global implementation"
+    },
+    {
+      "id": 511,
+      "code": "KEV591",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Devolved 6th generation strategy"
+    },
+    {
+      "id": 512,
+      "code": "RJF694",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Upgradable uniform project"
+    },
+    {
+      "id": 513,
+      "code": "GDV217",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Synchronised optimizing utilisation"
+    },
+    {
+      "id": 514,
+      "code": "WMF042",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Re-engineered local access"
+    },
+    {
+      "id": 515,
+      "code": "LBX420",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Grass-roots composite conglomeration"
+    },
+    {
+      "id": 516,
+      "code": "XAX267",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Organic 3rd generation standardization"
+    },
+    {
+      "id": 517,
+      "code": "HDR105",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Object-based 6th generation info-mediaries"
+    },
+    {
+      "id": 518,
+      "code": "VLG241",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Proactive neutral productivity"
+    },
+    {
+      "id": 519,
+      "code": "VNX060",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Balanced foreground firmware"
+    },
+    {
+      "id": 520,
+      "code": "TTJ369",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Sharable secondary pricing structure"
+    },
+    {
+      "id": 521,
+      "code": "XSS287",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Optimized high-level product"
+    },
+    {
+      "id": 522,
+      "code": "HNS505",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Synchronised value-added parallelism"
+    },
+    {
+      "id": 523,
+      "code": "IIA127",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Multi-channelled tangible artificial intelligence"
+    },
+    {
+      "id": 524,
+      "code": "SCX857",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Proactive reciprocal array"
+    },
+    {
+      "id": 525,
+      "code": "FLY105",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Enhanced transitional implementation"
+    },
+    {
+      "id": 526,
+      "code": "ORQ032",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Adaptive fault-tolerant encryption"
+    },
+    {
+      "id": 527,
+      "code": "DVJ919",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Cross-platform national intranet"
+    },
+    {
+      "id": 528,
+      "code": "RFK970",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Intuitive holistic structure"
+    },
+    {
+      "id": 529,
+      "code": "SNN549",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Right-sized contextually-based data-warehouse"
+    },
+    {
+      "id": 530,
+      "code": "HFF342",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Advanced user-facing instruction set"
+    },
+    {
+      "id": 531,
+      "code": "QDL364",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Networked system-worthy capacity"
+    },
+    {
+      "id": 532,
+      "code": "UCQ122",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Seamless uniform structure"
+    },
+    {
+      "id": 533,
+      "code": "AAS370",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Stand-alone disintermediate flexibility"
+    },
+    {
+      "id": 534,
+      "code": "SHF811",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Intuitive full-range database"
+    },
+    {
+      "id": 535,
+      "code": "GOZ664",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Integrated analyzing function"
+    },
+    {
+      "id": 536,
+      "code": "WBH491",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Networked motivating approach"
+    },
+    {
+      "id": 537,
+      "code": "XXE686",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Face to face bifurcated policy"
+    },
+    {
+      "id": 538,
+      "code": "VFJ416",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Pre-emptive content-based data-warehouse"
+    },
+    {
+      "id": 539,
+      "code": "XFR884",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Fully-configurable upward-trending encoding"
+    },
+    {
+      "id": 540,
+      "code": "UAS178",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Multi-lateral disintermediate customer loyalty"
+    },
+    {
+      "id": 541,
+      "code": "LBE573",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Configurable mobile approach"
+    },
+    {
+      "id": 542,
+      "code": "OKE757",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Multi-tiered 4th generation paradigm"
+    },
+    {
+      "id": 543,
+      "code": "ETK984",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Exclusive radical moderator"
+    },
+    {
+      "id": 544,
+      "code": "ZXY299",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Team-oriented 24 hour application"
+    },
+    {
+      "id": 545,
+      "code": "WGG850",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Profit-focused didactic strategy"
+    },
+    {
+      "id": 546,
+      "code": "BAW296",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Vision-oriented encompassing superstructure"
+    },
+    {
+      "id": 547,
+      "code": "NQV617",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Future-proofed 6th generation interface"
+    },
+    {
+      "id": 548,
+      "code": "STI100",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Operative full-range help-desk"
+    },
+    {
+      "id": 549,
+      "code": "NYT474",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Re-engineered context-sensitive benchmark"
+    },
+    {
+      "id": 550,
+      "code": "SYR637",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Enterprise-wide holistic attitude"
+    },
+    {
+      "id": 551,
+      "code": "WLE768",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Self-enabling 24 hour knowledge base"
+    },
+    {
+      "id": 552,
+      "code": "RUL227",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Streamlined full-range circuit"
+    },
+    {
+      "id": 553,
+      "code": "LNJ925",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Business-focused optimal initiative"
+    },
+    {
+      "id": 554,
+      "code": "TSI239",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Operative tangible migration"
+    },
+    {
+      "id": 555,
+      "code": "NFO706",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Polarised fault-tolerant flexibility"
+    },
+    {
+      "id": 556,
+      "code": "IIM699",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Automated dedicated infrastructure"
+    },
+    {
+      "id": 557,
+      "code": "SOE108",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Fundamental web-enabled approach"
+    },
+    {
+      "id": 558,
+      "code": "VWS749",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Reactive impactful internet solution"
+    },
+    {
+      "id": 559,
+      "code": "MHH545",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Multi-lateral national solution"
+    },
+    {
+      "id": 560,
+      "code": "XKC734",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Profit-focused executive local area network"
+    },
+    {
+      "id": 561,
+      "code": "KIY128",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Customer-focused even-keeled success"
+    },
+    {
+      "id": 562,
+      "code": "XMJ371",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Business-focused well-modulated solution"
+    },
+    {
+      "id": 563,
+      "code": "NCS956",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Diverse clear-thinking task-force"
+    },
+    {
+      "id": 564,
+      "code": "NHW299",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Configurable 6th generation flexibility"
+    },
+    {
+      "id": 565,
+      "code": "NMD779",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Implemented heuristic implementation"
+    },
+    {
+      "id": 566,
+      "code": "UZM585",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Organic maximized synergy"
+    },
+    {
+      "id": 567,
+      "code": "UJQ718",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Face to face asymmetric emulation"
+    },
+    {
+      "id": 568,
+      "code": "CNZ533",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Distributed zero tolerance projection"
+    },
+    {
+      "id": 569,
+      "code": "KCP592",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Configurable transitional algorithm"
+    },
+    {
+      "id": 570,
+      "code": "STJ288",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Phased multimedia definition"
+    },
+    {
+      "id": 571,
+      "code": "UNX102",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Cross-group next generation task-force"
+    },
+    {
+      "id": 572,
+      "code": "LZM684",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Optional hybrid framework"
+    },
+    {
+      "id": 573,
+      "code": "VUF845",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "User-centric zero administration solution"
+    },
+    {
+      "id": 574,
+      "code": "ISM391",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Devolved upward-trending monitoring"
+    },
+    {
+      "id": 575,
+      "code": "WEG319",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Open-source high-level concept"
+    },
+    {
+      "id": 576,
+      "code": "SQH296",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Streamlined clear-thinking conglomeration"
+    },
+    {
+      "id": 577,
+      "code": "XZC216",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Monitored clear-thinking structure"
+    },
+    {
+      "id": 578,
+      "code": "LVH120",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Optional asymmetric data-warehouse"
+    },
+    {
+      "id": 579,
+      "code": "QWG586",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Centralized 24 hour projection"
+    },
+    {
+      "id": 580,
+      "code": "JAI302",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Fundamental didactic challenge"
+    },
+    {
+      "id": 581,
+      "code": "KDH112",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Quality-focused upward-trending benchmark"
+    },
+    {
+      "id": 582,
+      "code": "DSI455",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Multi-channelled exuding matrices"
+    },
+    {
+      "id": 583,
+      "code": "RPY725",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Mandatory scalable internet solution"
+    },
+    {
+      "id": 584,
+      "code": "KDB785",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Business-focused non-volatile conglomeration"
+    },
+    {
+      "id": 585,
+      "code": "ODP693",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Cross-group non-volatile matrices"
+    },
+    {
+      "id": 586,
+      "code": "ZWB162",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Quality-focused asymmetric model"
+    },
+    {
+      "id": 587,
+      "code": "GVZ807",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Devolved coherent installation"
+    },
+    {
+      "id": 588,
+      "code": "AXG058",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Re-contextualized actuating groupware"
+    },
+    {
+      "id": 589,
+      "code": "WPB766",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Multi-layered 24 hour help-desk"
+    },
+    {
+      "id": 590,
+      "code": "TML761",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Expanded interactive time-frame"
+    },
+    {
+      "id": 591,
+      "code": "WAJ415",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Reactive client-server framework"
+    },
+    {
+      "id": 592,
+      "code": "DTJ552",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Grass-roots optimizing concept"
+    },
+    {
+      "id": 593,
+      "code": "MEA127",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Compatible non-volatile Graphical User Interface"
+    },
+    {
+      "id": 594,
+      "code": "MMF553",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Decentralized eco-centric website"
+    },
+    {
+      "id": 595,
+      "code": "LEI338",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Fundamental reciprocal Graphic Interface"
+    },
+    {
+      "id": 596,
+      "code": "PUR530",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Organized analyzing software"
+    },
+    {
+      "id": 597,
+      "code": "MME893",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Exclusive interactive initiative"
+    },
+    {
+      "id": 598,
+      "code": "KYN678",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Pre-emptive discrete function"
+    },
+    {
+      "id": 599,
+      "code": "MEG516",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Enhanced neutral orchestration"
+    },
+    {
+      "id": 600,
+      "code": "MYS317",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "User-centric context-sensitive frame"
+    },
+    {
+      "id": 601,
+      "code": "OLI121",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Phased value-added moderator"
+    },
+    {
+      "id": 602,
+      "code": "AIS922",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Polarised tangible project"
+    },
+    {
+      "id": 603,
+      "code": "WHL359",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Object-based neutral local area network"
+    },
+    {
+      "id": 604,
+      "code": "GWN278",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Proactive asymmetric internet solution"
+    },
+    {
+      "id": 605,
+      "code": "FSP261",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Face to face didactic secured line"
+    },
+    {
+      "id": 606,
+      "code": "AUR405",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Extended 5th generation matrices"
+    },
+    {
+      "id": 607,
+      "code": "CFA987",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Total asymmetric support"
+    },
+    {
+      "id": 608,
+      "code": "CIQ443",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Open-source solution-oriented artificial intelligence"
+    },
+    {
+      "id": 609,
+      "code": "WAG424",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Cross-platform secondary paradigm"
+    },
+    {
+      "id": 610,
+      "code": "LIG326",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Extended object-oriented interface"
+    },
+    {
+      "id": 611,
+      "code": "LKB497",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Profound systemic standardization"
+    },
+    {
+      "id": 612,
+      "code": "GPN032",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Polarised empowering open system"
+    },
+    {
+      "id": 613,
+      "code": "HPT602",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Phased reciprocal success"
+    },
+    {
+      "id": 614,
+      "code": "GOS731",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Robust asymmetric capability"
+    },
+    {
+      "id": 615,
+      "code": "DFL488",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Decentralized optimizing toolset"
+    },
+    {
+      "id": 616,
+      "code": "VIT243",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "User-centric next generation frame"
+    },
+    {
+      "id": 617,
+      "code": "QJM727",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Visionary 5th generation policy"
+    },
+    {
+      "id": 618,
+      "code": "WGM260",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Robust mission-critical project"
+    },
+    {
+      "id": 619,
+      "code": "YWN802",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Organized tertiary infrastructure"
+    },
+    {
+      "id": 620,
+      "code": "OYS527",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Expanded executive groupware"
+    },
+    {
+      "id": 621,
+      "code": "VUF911",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Cloned demand-driven focus group"
+    },
+    {
+      "id": 622,
+      "code": "MVD306",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Virtual clear-thinking projection"
+    },
+    {
+      "id": 623,
+      "code": "JXQ851",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Devolved modular policy"
+    },
+    {
+      "id": 624,
+      "code": "LYV640",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Cloned dynamic framework"
+    },
+    {
+      "id": 625,
+      "code": "PFQ232",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Configurable high-level synergy"
+    },
+    {
+      "id": 626,
+      "code": "KRI896",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Customizable human-resource customer loyalty"
+    },
+    {
+      "id": 627,
+      "code": "MEU648",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Streamlined non-volatile artificial intelligence"
+    },
+    {
+      "id": 628,
+      "code": "RSM921",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Versatile bandwidth-monitored access"
+    },
+    {
+      "id": 629,
+      "code": "IPK749",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Grass-roots 4th generation local area network"
+    },
+    {
+      "id": 630,
+      "code": "WQC724",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Horizontal encompassing strategy"
+    },
+    {
+      "id": 631,
+      "code": "FVY358",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Reverse-engineered mission-critical success"
+    },
+    {
+      "id": 632,
+      "code": "DET705",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Multi-channelled neutral extranet"
+    },
+    {
+      "id": 633,
+      "code": "RFB046",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Ameliorated uniform knowledge base"
+    },
+    {
+      "id": 634,
+      "code": "MMX125",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Integrated executive structure"
+    },
+    {
+      "id": 635,
+      "code": "OUM759",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Upgradable holistic policy"
+    },
+    {
+      "id": 636,
+      "code": "XIA408",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Adaptive tangible knowledge user"
+    },
+    {
+      "id": 637,
+      "code": "CVS536",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Extended even-keeled knowledge base"
+    },
+    {
+      "id": 638,
+      "code": "PYS442",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Synergized fault-tolerant framework"
+    },
+    {
+      "id": 639,
+      "code": "MQW974",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Ergonomic zero tolerance groupware"
+    },
+    {
+      "id": 640,
+      "code": "EKG969",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Phased bandwidth-monitored data-warehouse"
+    },
+    {
+      "id": 641,
+      "code": "VXR715",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Public-key motivating info-mediaries"
+    },
+    {
+      "id": 642,
+      "code": "WYA673",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Advanced disintermediate secured line"
+    },
+    {
+      "id": 643,
+      "code": "KML899",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Customer-focused grid-enabled alliance"
+    },
+    {
+      "id": 644,
+      "code": "VUK945",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Focused 24/7 forecast"
+    },
+    {
+      "id": 645,
+      "code": "EBE773",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Total dynamic Graphic Interface"
+    },
+    {
+      "id": 646,
+      "code": "GFG577",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Secured directional algorithm"
+    },
+    {
+      "id": 647,
+      "code": "EFY809",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Cross-platform zero tolerance productivity"
+    },
+    {
+      "id": 648,
+      "code": "GVH627",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Cross-group intermediate extranet"
+    },
+    {
+      "id": 649,
+      "code": "IMN396",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Centralized optimizing array"
+    },
+    {
+      "id": 650,
+      "code": "FWX012",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Customer-focused upward-trending extranet"
+    },
+    {
+      "id": 651,
+      "code": "QNG727",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Ameliorated dynamic ability"
+    },
+    {
+      "id": 652,
+      "code": "SHM346",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Advanced real-time hardware"
+    },
+    {
+      "id": 653,
+      "code": "RDQ225",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Cross-platform zero tolerance superstructure"
+    },
+    {
+      "id": 654,
+      "code": "OAD304",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Multi-channelled stable functionalities"
+    },
+    {
+      "id": 655,
+      "code": "RET851",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Polarised bottom-line encoding"
+    },
+    {
+      "id": 656,
+      "code": "WKT474",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Object-based optimizing service-desk"
+    },
+    {
+      "id": 657,
+      "code": "ESU555",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "User-centric directional secured line"
+    },
+    {
+      "id": 658,
+      "code": "EUP436",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Programmable value-added complexity"
+    },
+    {
+      "id": 659,
+      "code": "LHZ035",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Optional executive array"
+    },
+    {
+      "id": 660,
+      "code": "XTW320",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Up-sized stable framework"
+    },
+    {
+      "id": 661,
+      "code": "YRZ385",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Object-based 6th generation capability"
+    },
+    {
+      "id": 662,
+      "code": "IMJ159",
+      "brand": "Ram",
+      "status": "Out Of Service",
+      "description": "Versatile human-resource hierarchy"
+    },
+    {
+      "id": 663,
+      "code": "CHH232",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Profound didactic support"
+    },
+    {
+      "id": 664,
+      "code": "GSR845",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Reactive foreground core"
+    },
+    {
+      "id": 665,
+      "code": "LNM580",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Multi-lateral modular knowledge base"
+    },
+    {
+      "id": 666,
+      "code": "OIR308",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Persistent impactful emulation"
+    },
+    {
+      "id": 667,
+      "code": "YAO213",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Open-architected optimizing data-warehouse"
+    },
+    {
+      "id": 668,
+      "code": "CYO322",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Front-line didactic encryption"
+    },
+    {
+      "id": 669,
+      "code": "OUI641",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Re-contextualized transitional circuit"
+    },
+    {
+      "id": 670,
+      "code": "DVT128",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Switchable zero administration info-mediaries"
+    },
+    {
+      "id": 671,
+      "code": "QGZ958",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "User-friendly attitude-oriented info-mediaries"
+    },
+    {
+      "id": 672,
+      "code": "NIW177",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Advanced homogeneous flexibility"
+    },
+    {
+      "id": 673,
+      "code": "KKQ550",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Ameliorated 5th generation core"
+    },
+    {
+      "id": 674,
+      "code": "HTF757",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Enhanced web-enabled utilisation"
+    },
+    {
+      "id": 675,
+      "code": "JCM339",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Function-based full-range capacity"
+    },
+    {
+      "id": 676,
+      "code": "GWO300",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Seamless multimedia methodology"
+    },
+    {
+      "id": 677,
+      "code": "QQR833",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Diverse 4th generation info-mediaries"
+    },
+    {
+      "id": 678,
+      "code": "OWI163",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Robust object-oriented time-frame"
+    },
+    {
+      "id": 679,
+      "code": "GBK707",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Down-sized national ability"
+    },
+    {
+      "id": 680,
+      "code": "KPR219",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Reduced intermediate matrices"
+    },
+    {
+      "id": 681,
+      "code": "ROL724",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Cloned zero tolerance adapter"
+    },
+    {
+      "id": 682,
+      "code": "YQJ409",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Stand-alone zero administration system engine"
+    },
+    {
+      "id": 683,
+      "code": "VDQ916",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Face to face static open system"
+    },
+    {
+      "id": 684,
+      "code": "USK920",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Total motivating pricing structure"
+    },
+    {
+      "id": 685,
+      "code": "BIT229",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Realigned encompassing local area network"
+    },
+    {
+      "id": 686,
+      "code": "ZYS079",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Multi-layered tertiary initiative"
+    },
+    {
+      "id": 687,
+      "code": "XQY239",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Phased static success"
+    },
+    {
+      "id": 688,
+      "code": "UKI674",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Up-sized value-added middleware"
+    },
+    {
+      "id": 689,
+      "code": "NDZ976",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Total leading edge synergy"
+    },
+    {
+      "id": 690,
+      "code": "VEN534",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Innovative encompassing alliance"
+    },
+    {
+      "id": 691,
+      "code": "THZ420",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Face to face bottom-line hub"
+    },
+    {
+      "id": 692,
+      "code": "LLZ105",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Robust neutral access"
+    },
+    {
+      "id": 693,
+      "code": "TON818",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Implemented coherent installation"
+    },
+    {
+      "id": 694,
+      "code": "BGV231",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Secured holistic product"
+    },
+    {
+      "id": 695,
+      "code": "BXQ735",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Monitored zero defect matrices"
+    },
+    {
+      "id": 696,
+      "code": "CQJ318",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Future-proofed non-volatile hardware"
+    },
+    {
+      "id": 697,
+      "code": "MIR480",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Cloned 6th generation flexibility"
+    },
+    {
+      "id": 698,
+      "code": "BEN746",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Integrated transitional protocol"
+    },
+    {
+      "id": 699,
+      "code": "LWQ600",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Visionary intangible intranet"
+    },
+    {
+      "id": 700,
+      "code": "AEY869",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Diverse regional complexity"
+    },
+    {
+      "id": 701,
+      "code": "JSB589",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Robust heuristic data-warehouse"
+    },
+    {
+      "id": 702,
+      "code": "GTB942",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Synergistic mission-critical benchmark"
+    },
+    {
+      "id": 703,
+      "code": "CQR636",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Function-based well-modulated solution"
+    },
+    {
+      "id": 704,
+      "code": "MTP336",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Customizable systemic budgetary management"
+    },
+    {
+      "id": 705,
+      "code": "LPS205",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Monitored foreground pricing structure"
+    },
+    {
+      "id": 706,
+      "code": "EWC207",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Polarised web-enabled website"
+    },
+    {
+      "id": 707,
+      "code": "CCW891",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Configurable well-modulated model"
+    },
+    {
+      "id": 708,
+      "code": "WLG454",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Expanded even-keeled knowledge base"
+    },
+    {
+      "id": 709,
+      "code": "OAR255",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Profit-focused bottom-line middleware"
+    },
+    {
+      "id": 710,
+      "code": "CUF548",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Persevering foreground firmware"
+    },
+    {
+      "id": 711,
+      "code": "SPJ689",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Reverse-engineered 5th generation help-desk"
+    },
+    {
+      "id": 712,
+      "code": "MVH359",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Down-sized well-modulated intranet"
+    },
+    {
+      "id": 713,
+      "code": "CSA560",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Polarised modular approach"
+    },
+    {
+      "id": 714,
+      "code": "TAZ084",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Virtual cohesive success"
+    },
+    {
+      "id": 715,
+      "code": "LFB675",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Digitized methodical analyzer"
+    },
+    {
+      "id": 716,
+      "code": "CZQ901",
+      "brand": "Isuzu",
+      "status": "Out Of Service",
+      "description": "Sharable real-time system engine"
+    },
+    {
+      "id": 717,
+      "code": "REC303",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Digitized eco-centric database"
+    },
+    {
+      "id": 718,
+      "code": "IBM366",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Organized maximized migration"
+    },
+    {
+      "id": 719,
+      "code": "CYR435",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Object-based motivating superstructure"
+    },
+    {
+      "id": 720,
+      "code": "ZXA549",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Multi-lateral dynamic installation"
+    },
+    {
+      "id": 721,
+      "code": "GBC189",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Public-key user-facing open architecture"
+    },
+    {
+      "id": 722,
+      "code": "NGJ071",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Centralized composite frame"
+    },
+    {
+      "id": 723,
+      "code": "WTN757",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Switchable cohesive alliance"
+    },
+    {
+      "id": 724,
+      "code": "QYJ419",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Balanced motivating website"
+    },
+    {
+      "id": 725,
+      "code": "GZH729",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Compatible user-facing knowledge base"
+    },
+    {
+      "id": 726,
+      "code": "QAY974",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Persevering interactive customer loyalty"
+    },
+    {
+      "id": 727,
+      "code": "LCI239",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Mandatory demand-driven moderator"
+    },
+    {
+      "id": 728,
+      "code": "YIK527",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Expanded local productivity"
+    },
+    {
+      "id": 729,
+      "code": "LSU108",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Multi-tiered homogeneous superstructure"
+    },
+    {
+      "id": 730,
+      "code": "ULX956",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Seamless clear-thinking strategy"
+    },
+    {
+      "id": 731,
+      "code": "SAV060",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Object-based bi-directional time-frame"
+    },
+    {
+      "id": 732,
+      "code": "GSU964",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Cloned eco-centric policy"
+    },
+    {
+      "id": 733,
+      "code": "DIM099",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Enterprise-wide multimedia model"
+    },
+    {
+      "id": 734,
+      "code": "XRE852",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Secured intangible software"
+    },
+    {
+      "id": 735,
+      "code": "PXX560",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Versatile neutral help-desk"
+    },
+    {
+      "id": 736,
+      "code": "MYP433",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Cross-platform bandwidth-monitored interface"
+    },
+    {
+      "id": 737,
+      "code": "VOA899",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Total upward-trending database"
+    },
+    {
+      "id": 738,
+      "code": "UUY810",
+      "brand": "MAN",
+      "status": "To Job",
+      "description": "Balanced tangible contingency"
+    },
+    {
+      "id": 739,
+      "code": "HGJ893",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "User-centric holistic secured line"
+    },
+    {
+      "id": 740,
+      "code": "OLV200",
+      "brand": "Volvo",
+      "status": "At Job",
+      "description": "Streamlined system-worthy groupware"
+    },
+    {
+      "id": 741,
+      "code": "HMV467",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Customizable system-worthy implementation"
+    },
+    {
+      "id": 742,
+      "code": "WVY875",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Implemented system-worthy firmware"
+    },
+    {
+      "id": 743,
+      "code": "CRK909",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Customer-focused encompassing concept"
+    },
+    {
+      "id": 744,
+      "code": "MRO236",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Enhanced 4th generation Graphic Interface"
+    },
+    {
+      "id": 745,
+      "code": "ZNU994",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Compatible tangible protocol"
+    },
+    {
+      "id": 746,
+      "code": "WEP070",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Virtual attitude-oriented access"
+    },
+    {
+      "id": 747,
+      "code": "ZPP579",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Enterprise-wide tangible process improvement"
+    },
+    {
+      "id": 748,
+      "code": "QXX570",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Inverse fresh-thinking functionalities"
+    },
+    {
+      "id": 749,
+      "code": "NQM158",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Ergonomic transitional alliance"
+    },
+    {
+      "id": 750,
+      "code": "MSH360",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Universal mission-critical functionalities"
+    },
+    {
+      "id": 751,
+      "code": "SKZ363",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Down-sized composite workforce"
+    },
+    {
+      "id": 752,
+      "code": "RSS606",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Centralized zero tolerance encoding"
+    },
+    {
+      "id": 753,
+      "code": "UFX274",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Future-proofed disintermediate process improvement"
+    },
+    {
+      "id": 754,
+      "code": "QPW209",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Function-based transitional project"
+    },
+    {
+      "id": 755,
+      "code": "RTY973",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Self-enabling disintermediate protocol"
+    },
+    {
+      "id": 756,
+      "code": "AAH388",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Seamless exuding access"
+    },
+    {
+      "id": 757,
+      "code": "YCX938",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Ergonomic solution-oriented artificial intelligence"
+    },
+    {
+      "id": 758,
+      "code": "BRF246",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Devolved national neural-net"
+    },
+    {
+      "id": 759,
+      "code": "JIS406",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "User-friendly user-facing utilisation"
+    },
+    {
+      "id": 760,
+      "code": "XGL353",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Implemented empowering standardization"
+    },
+    {
+      "id": 761,
+      "code": "WPE757",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Operative mission-critical capacity"
+    },
+    {
+      "id": 762,
+      "code": "FPJ758",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Up-sized human-resource algorithm"
+    },
+    {
+      "id": 763,
+      "code": "GRG046",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Re-contextualized disintermediate leverage"
+    },
+    {
+      "id": 764,
+      "code": "TWA919",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Balanced secondary extranet"
+    },
+    {
+      "id": 765,
+      "code": "QRX835",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Optimized human-resource policy"
+    },
+    {
+      "id": 766,
+      "code": "PJO875",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Digitized local structure"
+    },
+    {
+      "id": 767,
+      "code": "ZEF595",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Sharable 24 hour success"
+    },
+    {
+      "id": 768,
+      "code": "VPO644",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Business-focused impactful project"
+    },
+    {
+      "id": 769,
+      "code": "PIO993",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Implemented modular product"
+    },
+    {
+      "id": 770,
+      "code": "DWZ771",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Triple-buffered disintermediate project"
+    },
+    {
+      "id": 771,
+      "code": "GZZ081",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Multi-layered maximized superstructure"
+    },
+    {
+      "id": 772,
+      "code": "QPB069",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Robust analyzing matrices"
+    },
+    {
+      "id": 773,
+      "code": "WWO615",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Upgradable systematic alliance"
+    },
+    {
+      "id": 774,
+      "code": "JIK764",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Exclusive regional archive"
+    },
+    {
+      "id": 775,
+      "code": "BBA575",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Realigned global moratorium"
+    },
+    {
+      "id": 776,
+      "code": "JST279",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Horizontal grid-enabled conglomeration"
+    },
+    {
+      "id": 777,
+      "code": "QGT914",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Persistent impactful intranet"
+    },
+    {
+      "id": 778,
+      "code": "AIA228",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Sharable explicit array"
+    },
+    {
+      "id": 779,
+      "code": "JWN701",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Automated coherent access"
+    },
+    {
+      "id": 780,
+      "code": "WWR768",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Switchable fresh-thinking forecast"
+    },
+    {
+      "id": 781,
+      "code": "UHC478",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Diverse client-driven function"
+    },
+    {
+      "id": 782,
+      "code": "OZI506",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Open-architected national productivity"
+    },
+    {
+      "id": 783,
+      "code": "QKT454",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Multi-lateral contextually-based attitude"
+    },
+    {
+      "id": 784,
+      "code": "YZS811",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Enhanced zero tolerance secured line"
+    },
+    {
+      "id": 785,
+      "code": "GVU692",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Exclusive tertiary encoding"
+    },
+    {
+      "id": 786,
+      "code": "MIJ029",
+      "brand": "Tata",
+      "status": "Returning",
+      "description": "Synchronised scalable instruction set"
+    },
+    {
+      "id": 787,
+      "code": "UAX429",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Digitized client-driven collaboration"
+    },
+    {
+      "id": 788,
+      "code": "EGE445",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Phased holistic infrastructure"
+    },
+    {
+      "id": 789,
+      "code": "XJI496",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Adaptive optimal help-desk"
+    },
+    {
+      "id": 790,
+      "code": "LUH798",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Enhanced static flexibility"
+    },
+    {
+      "id": 791,
+      "code": "ICI263",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Centralized secondary analyzer"
+    },
+    {
+      "id": 792,
+      "code": "COO157",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Horizontal content-based solution"
+    },
+    {
+      "id": 793,
+      "code": "LDQ914",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Distributed scalable success"
+    },
+    {
+      "id": 794,
+      "code": "BUS609",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Programmable value-added application"
+    },
+    {
+      "id": 795,
+      "code": "RNE932",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Balanced explicit core"
+    },
+    {
+      "id": 796,
+      "code": "UBG175",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Devolved solution-oriented emulation"
+    },
+    {
+      "id": 797,
+      "code": "CLP709",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Right-sized value-added alliance"
+    },
+    {
+      "id": 798,
+      "code": "FPV272",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Vision-oriented 4th generation solution"
+    },
+    {
+      "id": 799,
+      "code": "JLT237",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Focused reciprocal hardware"
+    },
+    {
+      "id": 800,
+      "code": "CKA285",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Cross-group holistic framework"
+    },
+    {
+      "id": 801,
+      "code": "FIS513",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Customer-focused hybrid policy"
+    },
+    {
+      "id": 802,
+      "code": "TJZ738",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Organic encompassing interface"
+    },
+    {
+      "id": 803,
+      "code": "EJS333",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Automated responsive forecast"
+    },
+    {
+      "id": 804,
+      "code": "JMU300",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Streamlined zero administration firmware"
+    },
+    {
+      "id": 805,
+      "code": "ZWH181",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Grass-roots 6th generation superstructure"
+    },
+    {
+      "id": 806,
+      "code": "DDB426",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Inverse empowering productivity"
+    },
+    {
+      "id": 807,
+      "code": "CBT175",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Programmable coherent orchestration"
+    },
+    {
+      "id": 808,
+      "code": "FZU806",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Multi-channelled real-time infrastructure"
+    },
+    {
+      "id": 809,
+      "code": "OWZ092",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Assimilated incremental encryption"
+    },
+    {
+      "id": 810,
+      "code": "TIQ950",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Switchable local strategy"
+    },
+    {
+      "id": 811,
+      "code": "NPA786",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Reactive systemic open system"
+    },
+    {
+      "id": 812,
+      "code": "CPU065",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Devolved encompassing matrix"
+    },
+    {
+      "id": 813,
+      "code": "KKN319",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Optimized actuating monitoring"
+    },
+    {
+      "id": 814,
+      "code": "OGY002",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Enhanced directional data-warehouse"
+    },
+    {
+      "id": 815,
+      "code": "JYM752",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Phased human-resource time-frame"
+    },
+    {
+      "id": 816,
+      "code": "XNO351",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Profound intermediate local area network"
+    },
+    {
+      "id": 817,
+      "code": "PKQ403",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Persevering discrete instruction set"
+    },
+    {
+      "id": 818,
+      "code": "BBT757",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Advanced fault-tolerant neural-net"
+    },
+    {
+      "id": 819,
+      "code": "ZLD956",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "Intuitive didactic access"
+    },
+    {
+      "id": 820,
+      "code": "RZY023",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Stand-alone responsive encoding"
+    },
+    {
+      "id": 821,
+      "code": "TIJ802",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Fundamental regional leverage"
+    },
+    {
+      "id": 822,
+      "code": "POB580",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Multi-channelled tangible capacity"
+    },
+    {
+      "id": 823,
+      "code": "VEO728",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Cross-group didactic middleware"
+    },
+    {
+      "id": 824,
+      "code": "TWN821",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Mandatory full-range orchestration"
+    },
+    {
+      "id": 825,
+      "code": "LSH919",
+      "brand": "Ram",
+      "status": "Loading",
+      "description": "Multi-channelled multi-state forecast"
+    },
+    {
+      "id": 826,
+      "code": "WFP250",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Fully-configurable global alliance"
+    },
+    {
+      "id": 827,
+      "code": "KJS025",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Polarised transitional help-desk"
+    },
+    {
+      "id": 828,
+      "code": "NKK482",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Quality-focused methodical encryption"
+    },
+    {
+      "id": 829,
+      "code": "RAD320",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Virtual holistic instruction set"
+    },
+    {
+      "id": 830,
+      "code": "VVK880",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Right-sized mission-critical knowledge user"
+    },
+    {
+      "id": 831,
+      "code": "FUD952",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Future-proofed methodical leverage"
+    },
+    {
+      "id": 832,
+      "code": "CCA138",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Automated optimizing workforce"
+    },
+    {
+      "id": 833,
+      "code": "BKF150",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Reduced global core"
+    },
+    {
+      "id": 834,
+      "code": "SGO295",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Fully-configurable object-oriented task-force"
+    },
+    {
+      "id": 835,
+      "code": "OAN531",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Multi-channelled incremental utilisation"
+    },
+    {
+      "id": 836,
+      "code": "BIW826",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Organized zero tolerance interface"
+    },
+    {
+      "id": 837,
+      "code": "WZO284",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Re-engineered optimal product"
+    },
+    {
+      "id": 838,
+      "code": "TYZ531",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Up-sized scalable initiative"
+    },
+    {
+      "id": 839,
+      "code": "YKT167",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Self-enabling directional workforce"
+    },
+    {
+      "id": 840,
+      "code": "AUO881",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Up-sized object-oriented parallelism"
+    },
+    {
+      "id": 841,
+      "code": "PZJ096",
+      "brand": "Nissan",
+      "status": "Loading",
+      "description": "Re-engineered fresh-thinking hierarchy"
+    },
+    {
+      "id": 842,
+      "code": "GPO669",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Optimized user-facing success"
+    },
+    {
+      "id": 843,
+      "code": "OEB991",
+      "brand": "Mack",
+      "status": "At Job",
+      "description": "Implemented bandwidth-monitored ability"
+    },
+    {
+      "id": 844,
+      "code": "WJS600",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Inverse methodical methodology"
+    },
+    {
+      "id": 845,
+      "code": "PUB268",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Pre-emptive stable contingency"
+    },
+    {
+      "id": 846,
+      "code": "MQO578",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Configurable impactful implementation"
+    },
+    {
+      "id": 847,
+      "code": "GLK361",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Pre-emptive composite function"
+    },
+    {
+      "id": 848,
+      "code": "HPO723",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Compatible value-added software"
+    },
+    {
+      "id": 849,
+      "code": "QUN504",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Streamlined coherent infrastructure"
+    },
+    {
+      "id": 850,
+      "code": "CXW880",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Vision-oriented human-resource standardization"
+    },
+    {
+      "id": 851,
+      "code": "QIG452",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Fundamental asynchronous function"
+    },
+    {
+      "id": 852,
+      "code": "EJU818",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Synergistic impactful internet solution"
+    },
+    {
+      "id": 853,
+      "code": "GVM347",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Universal global website"
+    },
+    {
+      "id": 854,
+      "code": "MUW929",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Total systematic flexibility"
+    },
+    {
+      "id": 855,
+      "code": "TFP179",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Assimilated real-time methodology"
+    },
+    {
+      "id": 856,
+      "code": "ZGW022",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Reverse-engineered system-worthy conglomeration"
+    },
+    {
+      "id": 857,
+      "code": "UMD856",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Progressive bifurcated capacity"
+    },
+    {
+      "id": 858,
+      "code": "TZG865",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Visionary holistic flexibility"
+    },
+    {
+      "id": 859,
+      "code": "YCU841",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Compatible non-volatile protocol"
+    },
+    {
+      "id": 860,
+      "code": "BCO864",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "User-centric composite complexity"
+    },
+    {
+      "id": 861,
+      "code": "ISR911",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "Seamless bandwidth-monitored time-frame"
+    },
+    {
+      "id": 862,
+      "code": "XNT497",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Horizontal user-facing Graphic Interface"
+    },
+    {
+      "id": 863,
+      "code": "TDA435",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Right-sized explicit budgetary management"
+    },
+    {
+      "id": 864,
+      "code": "TAF926",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Front-line multimedia synergy"
+    },
+    {
+      "id": 865,
+      "code": "WAE378",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Distributed content-based focus group"
+    },
+    {
+      "id": 866,
+      "code": "RCN506",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Profound multimedia leverage"
+    },
+    {
+      "id": 867,
+      "code": "IWZ367",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Grass-roots leading edge solution"
+    },
+    {
+      "id": 868,
+      "code": "YJJ153",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Business-focused empowering access"
+    },
+    {
+      "id": 869,
+      "code": "YRS266",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Fundamental 4th generation toolset"
+    },
+    {
+      "id": 870,
+      "code": "KXF359",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Cross-platform object-oriented emulation"
+    },
+    {
+      "id": 871,
+      "code": "EKW845",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Implemented coherent Graphical User Interface"
+    },
+    {
+      "id": 872,
+      "code": "LOX972",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Enterprise-wide intermediate leverage"
+    },
+    {
+      "id": 873,
+      "code": "FDM455",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Optional actuating intranet"
+    },
+    {
+      "id": 874,
+      "code": "QJK507",
+      "brand": "Scania",
+      "status": "At Job",
+      "description": "Fundamental tangible middleware"
+    },
+    {
+      "id": 875,
+      "code": "NAQ743",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Managed impactful function"
+    },
+    {
+      "id": 876,
+      "code": "ZRB059",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Cloned impactful leverage"
+    },
+    {
+      "id": 877,
+      "code": "QAT370",
+      "brand": "Spartan",
+      "status": "Out Of Service",
+      "description": "Triple-buffered responsive parallelism"
+    },
+    {
+      "id": 878,
+      "code": "VUL224",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Fundamental composite local area network"
+    },
+    {
+      "id": 879,
+      "code": "THG151",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "User-centric impactful approach"
+    },
+    {
+      "id": 880,
+      "code": "AAC297",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Automated exuding productivity"
+    },
+    {
+      "id": 881,
+      "code": "PPX944",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Multi-lateral global monitoring"
+    },
+    {
+      "id": 882,
+      "code": "YOZ079",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Universal neutral parallelism"
+    },
+    {
+      "id": 883,
+      "code": "OSX310",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Profit-focused 5th generation local area network"
+    },
+    {
+      "id": 884,
+      "code": "QKW907",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Progressive executive local area network"
+    },
+    {
+      "id": 885,
+      "code": "ATK478",
+      "brand": "Ford",
+      "status": "At Job",
+      "description": "Face to face 5th generation Graphical User Interface"
+    },
+    {
+      "id": 886,
+      "code": "FFA151",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Grass-roots context-sensitive monitoring"
+    },
+    {
+      "id": 887,
+      "code": "LIA432",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Mandatory reciprocal concept"
+    },
+    {
+      "id": 888,
+      "code": "PFR999",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Synergistic content-based definition"
+    },
+    {
+      "id": 889,
+      "code": "WIZ056",
+      "brand": "Nissan",
+      "status": "At Job",
+      "description": "Horizontal scalable challenge"
+    },
+    {
+      "id": 890,
+      "code": "JPR420",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Polarised full-range secured line"
+    },
+    {
+      "id": 891,
+      "code": "QBD570",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Devolved user-facing methodology"
+    },
+    {
+      "id": 892,
+      "code": "JFE022",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Reduced interactive infrastructure"
+    },
+    {
+      "id": 893,
+      "code": "SYQ847",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Multi-lateral national Graphic Interface"
+    },
+    {
+      "id": 894,
+      "code": "CPX947",
+      "brand": "Freightliner",
+      "status": "At Job",
+      "description": "Synergized next generation initiative"
+    },
+    {
+      "id": 895,
+      "code": "QQI099",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Triple-buffered incremental website"
+    },
+    {
+      "id": 896,
+      "code": "YFL793",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Re-engineered homogeneous software"
+    },
+    {
+      "id": 897,
+      "code": "QFE683",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Decentralized actuating help-desk"
+    },
+    {
+      "id": 898,
+      "code": "DYP669",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Fully-configurable regional collaboration"
+    },
+    {
+      "id": 899,
+      "code": "EFV356",
+      "brand": "Scania",
+      "status": "Out Of Service",
+      "description": "Fully-configurable exuding function"
+    },
+    {
+      "id": 900,
+      "code": "SOC620",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "Team-oriented executive definition"
+    },
+    {
+      "id": 901,
+      "code": "JTH924",
+      "brand": "Mack",
+      "status": "Returning",
+      "description": "Exclusive modular interface"
+    },
+    {
+      "id": 902,
+      "code": "XRJ119",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Reactive fault-tolerant encryption"
+    },
+    {
+      "id": 903,
+      "code": "GSN851",
+      "brand": "Toyota",
+      "status": "Returning",
+      "description": "Multi-layered attitude-oriented model"
+    },
+    {
+      "id": 904,
+      "code": "WSK960",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "Team-oriented empowering architecture"
+    },
+    {
+      "id": 905,
+      "code": "EJL775",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Enterprise-wide national intranet"
+    },
+    {
+      "id": 906,
+      "code": "EYR712",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Streamlined empowering capacity"
+    },
+    {
+      "id": 907,
+      "code": "OIX041",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Robust human-resource complexity"
+    },
+    {
+      "id": 908,
+      "code": "SJH457",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Innovative executive instruction set"
+    },
+    {
+      "id": 909,
+      "code": "RGR152",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "User-centric asymmetric superstructure"
+    },
+    {
+      "id": 910,
+      "code": "NXI280",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Multi-tiered mission-critical contingency"
+    },
+    {
+      "id": 911,
+      "code": "FCP683",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Organic radical function"
+    },
+    {
+      "id": 912,
+      "code": "JSY480",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Organic high-level hierarchy"
+    },
+    {
+      "id": 913,
+      "code": "FBS209",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Optional fault-tolerant capability"
+    },
+    {
+      "id": 914,
+      "code": "YHD472",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Stand-alone transitional forecast"
+    },
+    {
+      "id": 915,
+      "code": "DIR801",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Self-enabling bandwidth-monitored instruction set"
+    },
+    {
+      "id": 916,
+      "code": "DLS125",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Adaptive 3rd generation complexity"
+    },
+    {
+      "id": 917,
+      "code": "APS743",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "De-engineered tangible open architecture"
+    },
+    {
+      "id": 918,
+      "code": "FJF947",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Streamlined encompassing moderator"
+    },
+    {
+      "id": 919,
+      "code": "BOG539",
+      "brand": "Iveco",
+      "status": "Out Of Service",
+      "description": "User-centric grid-enabled strategy"
+    },
+    {
+      "id": 920,
+      "code": "ARL081",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Customizable value-added orchestration"
+    },
+    {
+      "id": 921,
+      "code": "AMM581",
+      "brand": "Ford",
+      "status": "Out Of Service",
+      "description": "Profit-focused interactive contingency"
+    },
+    {
+      "id": 922,
+      "code": "YKE223",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Secured bi-directional hardware"
+    },
+    {
+      "id": 923,
+      "code": "OKX759",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Synergistic interactive focus group"
+    },
+    {
+      "id": 924,
+      "code": "MGD762",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Organic foreground paradigm"
+    },
+    {
+      "id": 925,
+      "code": "HII039",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Enhanced methodical framework"
+    },
+    {
+      "id": 926,
+      "code": "AFM391",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Customizable radical moratorium"
+    },
+    {
+      "id": 927,
+      "code": "QEN068",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Fundamental client-driven leverage"
+    },
+    {
+      "id": 928,
+      "code": "OSS819",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Advanced context-sensitive support"
+    },
+    {
+      "id": 929,
+      "code": "IPP954",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Re-contextualized bandwidth-monitored archive"
+    },
+    {
+      "id": 930,
+      "code": "NVN222",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Function-based homogeneous analyzer"
+    },
+    {
+      "id": 931,
+      "code": "BTZ039",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Polarised multi-tasking migration"
+    },
+    {
+      "id": 932,
+      "code": "ZAG036",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Triple-buffered modular implementation"
+    },
+    {
+      "id": 933,
+      "code": "WTA943",
+      "brand": "Freightliner",
+      "status": "To Job",
+      "description": "Future-proofed contextually-based strategy"
+    },
+    {
+      "id": 934,
+      "code": "PNI637",
+      "brand": "Volvo",
+      "status": "To Job",
+      "description": "Ergonomic context-sensitive throughput"
+    },
+    {
+      "id": 935,
+      "code": "DYZ419",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Visionary optimal encoding"
+    },
+    {
+      "id": 936,
+      "code": "JMW543",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Fully-configurable 5th generation success"
+    },
+    {
+      "id": 937,
+      "code": "UJD009",
+      "brand": "Nissan",
+      "status": "Returning",
+      "description": "Synergized stable Graphical User Interface"
+    },
+    {
+      "id": 938,
+      "code": "KDR295",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Digitized leading edge attitude"
+    },
+    {
+      "id": 939,
+      "code": "NNE876",
+      "brand": "Toyota",
+      "status": "At Job",
+      "description": "Decentralized eco-centric methodology"
+    },
+    {
+      "id": 940,
+      "code": "HOT378",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Universal cohesive product"
+    },
+    {
+      "id": 941,
+      "code": "KGA857",
+      "brand": "Scania",
+      "status": "Returning",
+      "description": "Multi-channelled national orchestration"
+    },
+    {
+      "id": 942,
+      "code": "CWB797",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Pre-emptive analyzing implementation"
+    },
+    {
+      "id": 943,
+      "code": "IBN187",
+      "brand": "Ford",
+      "status": "Loading",
+      "description": "Innovative value-added solution"
+    },
+    {
+      "id": 944,
+      "code": "UMP218",
+      "brand": "Tata",
+      "status": "Out Of Service",
+      "description": "Progressive holistic challenge"
+    },
+    {
+      "id": 945,
+      "code": "MWR967",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Profound intangible solution"
+    },
+    {
+      "id": 946,
+      "code": "IAB490",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Function-based secondary hub"
+    },
+    {
+      "id": 947,
+      "code": "QOM282",
+      "brand": "Spartan",
+      "status": "Returning",
+      "description": "Focused non-volatile archive"
+    },
+    {
+      "id": 948,
+      "code": "WZX690",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "Cloned needs-based customer loyalty"
+    },
+    {
+      "id": 949,
+      "code": "CYI445",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Mandatory actuating knowledge base"
+    },
+    {
+      "id": 950,
+      "code": "VZA183",
+      "brand": "Kenworth",
+      "status": "At Job",
+      "description": "Digitized system-worthy encryption"
+    },
+    {
+      "id": 951,
+      "code": "NOW726",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Reduced mission-critical budgetary management"
+    },
+    {
+      "id": 952,
+      "code": "DJB321",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Multi-tiered asymmetric groupware"
+    },
+    {
+      "id": 953,
+      "code": "UHO138",
+      "brand": "Ram",
+      "status": "Returning",
+      "description": "Re-contextualized intermediate paradigm"
+    },
+    {
+      "id": 954,
+      "code": "WLJ685",
+      "brand": "Kenworth",
+      "status": "Loading",
+      "description": "Multi-layered analyzing productivity"
+    },
+    {
+      "id": 955,
+      "code": "ECC194",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Ergonomic 5th generation adapter"
+    },
+    {
+      "id": 956,
+      "code": "IBS587",
+      "brand": "Tata",
+      "status": "To Job",
+      "description": "Object-based reciprocal moratorium"
+    },
+    {
+      "id": 957,
+      "code": "ZGW473",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Robust logistical methodology"
+    },
+    {
+      "id": 958,
+      "code": "AWP784",
+      "brand": "Volvo",
+      "status": "Out Of Service",
+      "description": "Diverse leading edge project"
+    },
+    {
+      "id": 959,
+      "code": "HAC385",
+      "brand": "Ram",
+      "status": "To Job",
+      "description": "Right-sized global support"
+    },
+    {
+      "id": 960,
+      "code": "ZHK513",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "Object-based optimizing instruction set"
+    },
+    {
+      "id": 961,
+      "code": "TCM381",
+      "brand": "MAN",
+      "status": "Returning",
+      "description": "Monitored next generation neural-net"
+    },
+    {
+      "id": 962,
+      "code": "VBV727",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "Grass-roots multimedia structure"
+    },
+    {
+      "id": 963,
+      "code": "LED247",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Ameliorated coherent complexity"
+    },
+    {
+      "id": 964,
+      "code": "QGO220",
+      "brand": "Scania",
+      "status": "Loading",
+      "description": "Universal client-server forecast"
+    },
+    {
+      "id": 965,
+      "code": "HDU272",
+      "brand": "Tata",
+      "status": "Loading",
+      "description": "Extended directional success"
+    },
+    {
+      "id": 966,
+      "code": "WZM459",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Enterprise-wide systemic open architecture"
+    },
+    {
+      "id": 967,
+      "code": "SSE886",
+      "brand": "Mack",
+      "status": "Out Of Service",
+      "description": "Optional scalable definition"
+    },
+    {
+      "id": 968,
+      "code": "FDC875",
+      "brand": "Iveco",
+      "status": "Loading",
+      "description": "Robust uniform encoding"
+    },
+    {
+      "id": 969,
+      "code": "PKG023",
+      "brand": "Volvo",
+      "status": "Loading",
+      "description": "Universal optimizing monitoring"
+    },
+    {
+      "id": 970,
+      "code": "IIZ376",
+      "brand": "Toyota",
+      "status": "To Job",
+      "description": "Fully-configurable multimedia standardization"
+    },
+    {
+      "id": 971,
+      "code": "VIU625",
+      "brand": "Nissan",
+      "status": "To Job",
+      "description": "Fully-configurable 3rd generation capability"
+    },
+    {
+      "id": 972,
+      "code": "TOZ002",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Reduced non-volatile capacity"
+    },
+    {
+      "id": 973,
+      "code": "NNR783",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Fully-configurable user-facing Graphic Interface"
+    },
+    {
+      "id": 974,
+      "code": "MAG799",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Exclusive directional strategy"
+    },
+    {
+      "id": 975,
+      "code": "SVX885",
+      "brand": "Ford",
+      "status": "Returning",
+      "description": "Fully-configurable content-based intranet"
+    },
+    {
+      "id": 976,
+      "code": "KIW485",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Visionary fresh-thinking migration"
+    },
+    {
+      "id": 977,
+      "code": "QUK707",
+      "brand": "MAN",
+      "status": "Out Of Service",
+      "description": "Programmable multi-tasking synergy"
+    },
+    {
+      "id": 978,
+      "code": "ZYH966",
+      "brand": "Isuzu",
+      "status": "To Job",
+      "description": "Function-based well-modulated info-mediaries"
+    },
+    {
+      "id": 979,
+      "code": "OOX415",
+      "brand": "Kenworth",
+      "status": "Returning",
+      "description": "Focused cohesive extranet"
+    },
+    {
+      "id": 980,
+      "code": "UQJ619",
+      "brand": "Volvo",
+      "status": "Returning",
+      "description": "User-friendly maximized website"
+    },
+    {
+      "id": 981,
+      "code": "BWP571",
+      "brand": "Isuzu",
+      "status": "At Job",
+      "description": "Configurable executive hardware"
+    },
+    {
+      "id": 982,
+      "code": "JVE325",
+      "brand": "Nissan",
+      "status": "Out Of Service",
+      "description": "Monitored secondary middleware"
+    },
+    {
+      "id": 983,
+      "code": "MWE509",
+      "brand": "Ram",
+      "status": "At Job",
+      "description": "Horizontal national success"
+    },
+    {
+      "id": 984,
+      "code": "AOU281",
+      "brand": "Toyota",
+      "status": "Out Of Service",
+      "description": "Fully-configurable intermediate interface"
+    },
+    {
+      "id": 985,
+      "code": "UXD234",
+      "brand": "Spartan",
+      "status": "At Job",
+      "description": "Multi-lateral responsive migration"
+    },
+    {
+      "id": 986,
+      "code": "LYT616",
+      "brand": "Iveco",
+      "status": "At Job",
+      "description": "Extended fault-tolerant conglomeration"
+    },
+    {
+      "id": 987,
+      "code": "FTP700",
+      "brand": "Kenworth",
+      "status": "Out Of Service",
+      "description": "Future-proofed bandwidth-monitored frame"
+    },
+    {
+      "id": 988,
+      "code": "YII648",
+      "brand": "Toyota",
+      "status": "Loading",
+      "description": "Pre-emptive discrete neural-net"
+    },
+    {
+      "id": 989,
+      "code": "SDU094",
+      "brand": "MAN",
+      "status": "Loading",
+      "description": "Ameliorated zero tolerance projection"
+    },
+    {
+      "id": 990,
+      "code": "LBE633",
+      "brand": "Mack",
+      "status": "To Job",
+      "description": "Enhanced web-enabled structure"
+    },
+    {
+      "id": 991,
+      "code": "QCB045",
+      "brand": "Kenworth",
+      "status": "To Job",
+      "description": "Digitized tertiary paradigm"
+    },
+    {
+      "id": 992,
+      "code": "TSZ280",
+      "brand": "Mack",
+      "status": "Loading",
+      "description": "Organized systematic task-force"
+    },
+    {
+      "id": 993,
+      "code": "NMA773",
+      "brand": "Spartan",
+      "status": "Loading",
+      "description": "Self-enabling incremental protocol"
+    },
+    {
+      "id": 994,
+      "code": "OYA371",
+      "brand": "Isuzu",
+      "status": "Returning",
+      "description": "Automated systematic matrices"
+    },
+    {
+      "id": 995,
+      "code": "ITY682",
+      "brand": "Isuzu",
+      "status": "Loading",
+      "description": "Decentralized fault-tolerant monitoring"
+    },
+    {
+      "id": 996,
+      "code": "EXJ547",
+      "brand": "Tata",
+      "status": "At Job",
+      "description": "Robust secondary extranet"
+    },
+    {
+      "id": 997,
+      "code": "DTF890",
+      "brand": "Iveco",
+      "status": "To Job",
+      "description": "Cross-group demand-driven frame"
+    },
+    {
+      "id": 998,
+      "code": "GUR110",
+      "brand": "Freightliner",
+      "status": "Out Of Service",
+      "description": "Programmable transitional success"
+    },
+    {
+      "id": 999,
+      "code": "VFK586",
+      "brand": "MAN",
+      "status": "At Job",
+      "description": "Implemented maximized protocol"
+    },
+    {
+      "id": 1000,
+      "code": "KQI038",
+      "brand": "Freightliner",
+      "status": "Returning",
+      "description": "Vision-oriented systemic adapter"
+    },
+    {
+      "id": 1001,
+      "code": "qq1",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "aaa"
+    },
+    {
+      "code": "qq2",
+      "brand": "Ford",
+      "status": "To Job",
+      "description": "",
+      "id": 1002
+    },
+    {
+      "code": "qq3",
+      "brand": "Scania",
+      "status": "To Job",
+      "description": "",
+      "id": 1003
+    },
+    {
+      "code": "qq4",
+      "brand": "Iveco",
+      "status": "Returning",
+      "description": "",
+      "id": 1004
+    },
+    {
+      "code": "qq5",
+      "brand": "Spartan",
+      "status": "To Job",
+      "description": "",
+      "id": 1005
+    },
+    {
+      "code": "qq6",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "",
+      "id": 1006
+    },
+    {
+      "id": 1007,
+      "code": "ABC1245",
+      "brand": "Freightliner",
+      "status": "Loading",
+      "description": "not bad"
+    }
+  ]
+}
